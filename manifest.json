@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "files": [
     {"path": "Advanced/Index.md", "sha256": "3a4c4465f183e0efdac28079035f26cb2fc7c1d5ff04276d5c3ac48c9cfad198"},
     {"path": "Advanced/Reference/Background_Behaviour.md", "sha256": "e1bc395dbc5727761b862a81b99c3ac682211640a2e1d710d85a04599d69302e"},
