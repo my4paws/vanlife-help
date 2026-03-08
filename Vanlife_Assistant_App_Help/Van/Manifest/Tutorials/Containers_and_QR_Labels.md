@@ -67,7 +67,7 @@ Containers can contain other containers. A hard case inside the garage zone can 
 
 The weight rollup is recursive: each level adds its own weight plus the total weight of everything inside it. If you add a 2kg hard case and fill it with items totalling 5kg, the container shows 7kg on the zone list and contributes 7kg to the payload.
 
-To create a nested container, create it as a new item with the Container toggle on, then set its **Inside Container** to the parent container. You can also use the [[The_Loading_Bay|Loading Bay]] to move an existing container inside another.
+To create a nested container, create it as a new item with the Container toggle on, then set its **Inside Container** to the parent container. You can also use the [[Van/Manifest/Tutorials/The_Loading_Bay|Loading Bay]] to move an existing container inside another.
 
 ---
 
@@ -126,7 +126,7 @@ If the scanned code doesn't match any container in your manifest (for example, a
 
 Containers can be moved between zones, or from a zone root into another container (and vice versa), using the **Move** option.
 
-Long-press or tap the **⋯** context menu on any container row and choose **Move Container**. This opens the [[The_Loading_Bay|Loading Bay]] pre-filtered for that container. Select the destination zone and optionally a destination container, then confirm.
+Long-press or tap the **⋯** context menu on any container row and choose **Move Container**. This opens the [[Van/Manifest/Tutorials/The_Loading_Bay|Loading Bay]] pre-filtered for that container. Select the destination zone and optionally a destination container, then confirm.
 
 When a container moves, all its contents move with it — their zone and parent relationships update recursively.
 
@@ -159,5 +159,5 @@ No. The QR code is based on the container's internal UUID, which never changes. 
 ## Related Articles
 - [[Understanding_the_Manifest|Understanding the Manifest]]
 - [[Adding_and_Editing_Items|Adding and Editing Items]]
-- [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
-- [[The_Loading_Bay|The Loading Bay]]
+- [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
+- [[Van/Manifest/Tutorials/The_Loading_Bay|The Loading Bay]]

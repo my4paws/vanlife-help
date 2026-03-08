@@ -54,7 +54,7 @@ Recording drives, reviewing your history, levelling your pitch, and documenting 
 
 The Van tab is the source of truth for your vehicle's identity. Data entered here flows outward:
 
-- **Dimensions and weight** → Manifest payload heatmap and weight distribution (see [[Payload_and_Weight_Management|Payload and Weight Management]])
+- **Dimensions and weight** → Manifest payload heatmap and weight distribution (see [[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]])
 - **Crew weights** → Payload calculation (see [[The_Crew|The Crew]])
 - **Fluid specs** → Ticker tape on the Van tab home screen
 - **Kerb weight and GVM** → Payload allowance ring (see [[Understanding_the_Manifest|Understanding the Manifest]])
@@ -70,7 +70,7 @@ When you open the Van tab, you see:
 1. **Fleet Carousel** — Swipe between all your vehicles. The active vehicle is synced across the app.
 2. **Smart Van Card** — Quick controls for your connected van accessories (if enabled)
 3. **Ticker Tape** — A horizontal scrolling strip of your van's dimensions, tyre pressures, fuel type, and fluid specs
-4. **Digital Glovebox** — A summary card linking to your van's documents (see [[The_Glovebox|The Glovebox]])
+4. **Digital Glovebox** — A summary card linking to your van's documents (see [[Van/Glovebox/Glovebox Index|The Glovebox]])
 5. **Manifest Summary** — Payload status and a link to the Manifest (see [[Understanding_the_Manifest|Understanding the Manifest]])
 6. **Leveling Assistant** — One tap to the level tool
 7. **Tools Grid** — Four quick-access cards: Service History, Fuel Log, Drive Recorder, Drive History

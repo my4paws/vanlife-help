@@ -70,7 +70,7 @@ If you tap **Cancel** before completing the audit, no changes are saved — item
 
 Use what you find to update the Manifest:
 
-- **Item not present** — it's been consumed, lost, or moved. Delete it or move it to the correct zone via the [[The_Loading_Bay|Loading Bay]].
+- **Item not present** — it's been consumed, lost, or moved. Delete it or move it to the correct zone via the [[Van/Manifest/Tutorials/The_Loading_Bay|Loading Bay]].
 - **Item present but wrong quantity** — edit the item to correct the count. Tap the **⋯** menu on the item row or use the Move option to reach the editor.
 - **New item found** — add it. Tap **+** in the toolbar while the audit is in progress; new items added during an audit start as unverified and appear in To Check.
 - **Item present but in wrong location** — move it using the per-item Move sheet (long-press → Move Item) or via the Loading Bay.
@@ -85,7 +85,7 @@ There's no required cadence, but auditing each zone before a significant trip �
 
 ## Related Articles
 - [[Understanding_the_Manifest|Understanding the Manifest]]
-- [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
+- [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
 - [[Adding_and_Editing_Items|Adding and Editing Items]]
-- [[The_Loading_Bay|The Loading Bay]]
+- [[Van/Manifest/Tutorials/The_Loading_Bay|The Loading Bay]]
 - [[Inventory_Control_and_Expiry_Dates|Inventory Control and Expiry Dates]]

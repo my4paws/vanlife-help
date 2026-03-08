@@ -37,21 +37,21 @@ More than just a map, the **Trips** module logs your epic journeys and keeps you
 * Automatically track your route and elevation with the **Drive Recorder**.
 * Log **Check-ins** and build a beautiful timeline of your journey.
 * Never overstay a visa again with the automatic **Schengen Calculator** and **Border Crossing Detection**.
-👉 *Learn more in the [[Trips Index]].*
+👉 *Learn more in the [[The Trips Dashboard]].*
 
 ### 3. Money & Runway
 Road finances can be unpredictable. The **Money** module helps you stretch your travel fund further.
 * Track expenses across multiple currencies (which sync to the latest exchange rates when you are online).
 * Monitor your **Daily Burn Rate** and Remaining Budget.
 * Build **What-If Scenarios** to see how a major repair or a month in expensive campsites will affect your total "runway" (how long you can stay on the road).
-👉 *Learn more in the [[Money Index]].*
+👉 *Learn more in the [[The Money Dashboard - Your Financial GPS|money dashboard]].*
 
 ### 4. SmartVan & Vehicle Health
 Your van is both your vehicle and your home. Connect it to the app to keep it healthy.
 * Link **HomeKit Accessories** to monitor temperature and battery levels.
 * Track **Vehicle Specifications** (weight, height, tire pressure) so you always know if you can fit under that bridge.
 * Schedule and log **Maintenance** to keep the engine purring.
-👉 *Learn more in the [[Van Index]].*
+👉 *Learn more in the [[SmartVan_Dashboard|van dashboard]].*
 
 ### 5. Glovebox
 Your most important documents, safely encrypted and always accessible.
@@ -64,7 +64,7 @@ Hands covered in grease? Driving down the highway? Just ask your van!
 * Say: *"Log 50 Euros for diesel."*
 * Ask: *"Where did I put the heavy duty jump leads?"*
 * Say: *"Add milk to the whiteboard."*
-👉 *Learn more in the [[Voice Assistant Index]].*
+👉 *Learn more in the [[Voice Assistant/Voice_Index|Voice Assistant Index]].*
 
 ---
 

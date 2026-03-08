@@ -106,11 +106,11 @@ Open the Compliance editor, toggle off the old date, then toggle on again to set
 The date has already passed. Update it to the next renewal date.
 
 **Can I set reminders for things other than these four?**
-Not within the Compliance card — it covers the four legally mandated categories. For custom reminders (servicing, stickers, permits) use the [[Using_the_Whiteboard|Whiteboard]] with a due date trigger.
+Not within the Compliance card — it covers the four legally mandated categories. For custom reminders (servicing, stickers, permits) use the [[Whiteboard/Reference/Using the Whiteboard|Whiteboard]] with a due date trigger.
 
 ---
 
 ## Related Articles
 - [[Van_Profile_and_Setup|Setting Up Your Van Profile]]
 - [[The_Maintenance_Schedule|The Maintenance Schedule]]
-- [[Using_the_Whiteboard|Using the Whiteboard]]
+- [[Whiteboard/Reference/Using the Whiteboard|Using the Whiteboard]]

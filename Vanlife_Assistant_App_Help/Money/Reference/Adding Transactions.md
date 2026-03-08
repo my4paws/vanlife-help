@@ -82,7 +82,7 @@ Tap **Scan Receipt** to open the built-in document scanner. Snap a photo of your
 * **The Magic:** This receipt isn't just attached to the transaction; it is also automatically filed away into your secure [[How to securely store vehicle and travel documents|Glovebox]] under the "Receipts" tag for safekeeping!
 
 ## 📍 Location Auto-Tagging
-If you are logging an expense on the go, the app will automatically tag the GPS coordinates and the name of the town you are in. You can also toggle **Is Waypoint (Check-in)** to have this expense show up as a pin on your [[Trips Index|Trip Map]]!
+If you are logging an expense on the go, the app will automatically tag the GPS coordinates and the name of the town you are in. You can also toggle **Is Waypoint (Check-in)** to have this expense show up as a pin on your [[Trips/Index|Trip Map]]!
 
 ---
 

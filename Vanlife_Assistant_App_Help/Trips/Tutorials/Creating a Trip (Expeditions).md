@@ -17,7 +17,7 @@ last_updated: "2026-02-22"
 
 In Vanlife Assistant, an **Expedition** (or "Trip") is the master container for a specific era of your travels.
 
-If your whole vanlife experience is a book, Expeditions are the chapters. By grouping your [[Drive Recorder]] routes, [[Checkins and Timeline|Check-ins]], and financial expenses into a specific Trip (e.g., "Winter in Morocco 2026" or "The Pan-American Highway"), you can view beautiful, isolated statistics and maps for just that specific journey.
+If your whole vanlife experience is a book, Expeditions are the chapters. By grouping your [[Trips/Reference/Drive Recorder|Drive Recorder]] routes, [[Trips/Reference/Checkins and Timeline|Check-ins]], and financial expenses into a specific Trip (e.g., "Winter in Morocco 2026" or "The Pan-American Highway"), you can view beautiful, isolated statistics and maps for just that specific journey.
 
 ---
 
@@ -60,8 +60,8 @@ You can change any detail of a trip at any time.
 
 Once a Trip is active, Vanlife Assistant goes to work silently:
 
-- All new [[Adding Transactions|financial expenses]] are automatically tagged with this Trip's date range.
-- Every GPS breadcrumb dropped by the [[Drive Recorder]] is woven into this Trip's map.
+- All new [[Money/Reference/Adding Transactions|financial expenses]] are automatically tagged with this Trip's date range.
+- Every GPS breadcrumb dropped by the [[Trips/Reference/Drive Recorder|Drive Recorder]] is woven into this Trip's map.
 - Every Check-in and photo you save builds out a chronological journal specific to this Expedition.
 
 You don't need to do anything—just live your vanlife and the app captures the story for you.
@@ -72,5 +72,5 @@ You don't need to do anything—just live your vanlife and the app captures the 
 
 - [[Trip States - Future, Active, and Past Expeditions]]
 - [[The Trips Dashboard]]
-- [[Checkins and Timeline]]
+- [[Trips/Reference/Checkins and Timeline|Checkins and Timeline]]
 - [[Unified History Map]]

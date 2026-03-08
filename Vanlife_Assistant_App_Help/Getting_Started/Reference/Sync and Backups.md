@@ -43,8 +43,8 @@ Instead of using a third-party server, Vanlife Assistant uses **Apple CloudKit**
 
 ## 💾 Exporting Your Data (Manual Backups)
 While iCloud handles the heavy lifting automatically, we believe your data belongs to you. You can export your data at any time to keep personal hard copies:
-* **Money:** Export your entire ledger or specific monthly reports as a `.CSV` file for Excel or Numbers. 👉 *See [[CSV Export Service]]*
-* **Trips:** Export your recorded drives as `.GPX` files to use in other mapping software. 👉 *See [[GPX Import & Export]]*
+* **Money:** Export your entire ledger or specific monthly reports as a `.CSV` file for Excel or Numbers. 👉 *See [[Money/Reference/Exporting Your Data (CSV)|CSV Export Service]]*
+* **Trips:** Export your recorded drives as `.GPX` files to use in other mapping software. 👉 *See [[Trips/Reference/GPX Import|GPX Import & Export]]*
 
 ## ⚠️ Troubleshooting Sync
 If your data doesn't seem to be showing up on your other devices, check the following:
@@ -52,4 +52,4 @@ If your data doesn't seem to be showing up on your other devices, check the foll
 2. Are you in **Low Data Mode** or **Low Power Mode**? Your iPhone may pause background syncing to save battery or cellular data.
 3. Is your iCloud storage full? Check your iPhone's main **Settings > [Your Name] > iCloud**.
 
-👉 *For more advanced technical details, check out [[CloudKit Sync Behaviour]].*
+👉 *For more advanced technical details, check out [[Advanced/Reference/CloudKit_Sync_Behaviour|CloudKit Sync Behaviour]].*

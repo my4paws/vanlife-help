@@ -53,7 +53,7 @@ The Manifest home screen has four main areas:
 
 **Expiring Items card** — appears at the top when any item has an expiry date within 30 days. Each chip shows the item name and how many days remain. Tap any chip to edit that item directly.
 
-**Payload header** — shows your van's name, the weight currently loaded against your payload allowance, and a colour-coded ring (green → orange → red as you approach the limit). Tap the **Weight Distribution** button if you have it enabled to flip to the heatmap view. See [[Payload\_and\_Weight\_Management|Payload and Weight Management]].
+**Payload header** — shows your van's name, the weight currently loaded against your payload allowance, and a colour-coded ring (green → orange → red as you approach the limit). Tap the **Weight Distribution** button if you have it enabled to flip to the heatmap view. See [[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]].
 
 **Inventory Zones grid** — your onboard zones (linked to the active van) and offboard zones are shown as tappable cards. Each card shows the zone name, container count, and item count. Tap a card to open the zone and see everything inside it.
 
@@ -75,7 +75,7 @@ Three buttons sit in the navigation bar:
 
 ## The Floating Add Button
 
-The **+** button in the bottom-right corner opens the item editor to add a new item. It only appears once you have at least one zone set up. See [[Adding\_and\_Editing\_Items|Adding and Editing Items]].
+The **+** button in the bottom-right corner opens the item editor to add a new item. It only appears once you have at least one zone set up. See [[Van/Manifest/Tutorials/Adding_and_Editing_Items|Adding and Editing Items]].
 
 ---
 
@@ -83,11 +83,11 @@ The **+** button in the bottom-right corner opens the item editor to add a new i
 
 **Onboard vs Offboard zones.** Onboard zones are physically inside your van and contribute to the payload calculation. Offboard zones are external locations — your gear living there is tracked but doesn't affect your van's weight. See [[Setting\_Up\_Your\_Vans\_Zones|Setting Up Your Van's Zones]].
 
-**Containers as items.** A container is just a regular item with the "This is a container" flag turned on. This means a container itself has a weight (its own body weight, separate from its contents), a category, and all other item properties. See [[Containers\_and\_QR\_Labels|Containers and QR Labels]].
+**Containers as items.** A container is just a regular item with the "This is a container" flag turned on. This means a container itself has a weight (its own body weight, separate from its contents), a category, and all other item properties. See [[Van/Manifest/Tutorials/Containers_and_QR_Labels|Containers and QR Labels]].
 
 **Recursive weight.** An item's `totalStackWeight` includes its own weight multiplied by its quantity, plus the total weight of everything inside it if it's a container. This rolls up all the way to the zone level. The payload header shows the sum of all top-level items' stack weights across all onboard zones.
 
-**The Gear List.** When you add a new item, a toggle asks whether to also add it to the Gear List. The Gear List is a separate catalogue of templates — items defined by what they are, not where they currently are. It's your master inventory reference and the source for trip kit planning. See [[The\_Gear\_List|The Gear List]].
+**The Gear List.** When you add a new item, a toggle asks whether to also add it to the Gear List. The Gear List is a separate catalogue of templates — items defined by what they are, not where they currently are. It's your master inventory reference and the source for trip kit planning. See [[Van/Manifest/Tutorials/The_Gear_List|The Gear List]].
 
 **Contexts.** Every item can be tagged with a *When* (Always, or one or more months) and any number of custom contexts like "Hiking", "Remote Work", or "Winter". These tags don't filter the inventory view, but the voice assistant and future features use them to understand when an item is relevant.
 
@@ -96,10 +96,10 @@ The **+** button in the bottom-right corner opens the item editor to add a new i
 ## Where to Go Next
 
 - [[Setting\_Up\_Your\_Vans\_Zones|Setting Up Your Van's Zones]] — *Required first step*
-- [[Adding\_and\_Editing\_Items|Adding and Editing Items]] — *Every field explained*
-- [[Containers\_and\_QR\_Labels|Containers and QR Labels]] — *Physical labelling for your gear*
-- [[Payload\_and\_Weight\_Management|Payload and Weight Management]] — *The weight calculation in full*
-- [[The\_Gear\_List|The Gear List]] — *Your master inventory catalogue*
-- [[The\_Loading\_Bay|The Loading Bay]] — *Moving gear between zones and vehicles*
-- [[Stocktaking\_with\_the\_Audit\_Tool|Stocktaking with the Audit Tool]] — *Verifying what's actually in the van*
-- [[Inventory\_Control\_and\_Expiry\_Dates|Inventory Control and Expiry Dates]] — *Low-stock alerts and expiry tracking*
+- [[Van/Manifest/Tutorials/Adding_and_Editing_Items|Adding and Editing Items]] — *Every field explained*
+- [[Van/Manifest/Tutorials/Containers_and_QR_Labels|Containers and QR Labels]] — *Physical labelling for your gear*
+- [[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]] — *The weight calculation in full*
+- [[Van/Manifest/Tutorials/The_Gear_List|The Gear List]] — *Your master inventory catalogue*
+- [[Van/Manifest/Tutorials/The_Loading_Bay|The Loading Bay]] — *Moving gear between zones and vehicles*
+- [[Van/Manifest/Tutorials/Stocktaking_with_the_Audit_Tool|Stocktaking with the Audit Tool]] — *Verifying what's actually in the van*
+- [[Van/Manifest/Tutorials/Inventory_Control_and_Expiry_Dates|Inventory Control and Expiry Dates]] — *Low-stock alerts and expiry tracking*

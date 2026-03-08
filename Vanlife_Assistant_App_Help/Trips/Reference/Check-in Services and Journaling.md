@@ -39,6 +39,6 @@ Under the "Services" section, you can toggle:
 *Pro-Tip: Because these are saved as hard data points, you can use the global search bar on your [[The Trips Dashboard|Unified History Map]] later and type "Grey Waste" to instantly filter your map to only show previous stops where you could empty your tanks!*
 
 ## Cost Metadata
-While your actual financial budget is handled in the [[Adding Transactions|Money Module]], you can add "Cost Metadata" directly to a Check-in. 
+While your actual financial budget is handled in the [[Money/Reference/Adding Transactions|Money Module]], you can add "Cost Metadata" directly to a Check-in. 
 
 This is purely for informational purposes (e.g., "This campsite cost €25/night"). It does *not* deduct money from your active budget, but it ensures that when you look back at this Check-in two years from now, you know exactly how much you paid to stay there.

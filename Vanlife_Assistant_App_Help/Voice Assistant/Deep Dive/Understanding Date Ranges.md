@@ -33,7 +33,7 @@ This article explains how **Understanding Date Ranges** works inside Vanlife Ass
 - Sync verification
 
 ## Related Articles
-- [[What The Assistant Can Do]]
+- [[Voice Assistant/Reference/Voice_Overview|What The Assistant Can Do]]
 - [[Follow Up Questions]]
 - [[Offline Limitations]]
 - [[Date Range Queries]]

@@ -34,7 +34,7 @@ When the calendar hits your Trip's Start Date, it automatically becomes your **A
 *(Note: You can only have one Active trip at a time).*
 
 * **The Command Center:** Your [[The Trips Dashboard]] transforms to show live data: Days on the road, remaining Schengen visa days, and live Drive Recorder status.
-* **Automatic Aggregation:** Every [[Adding Transactions|financial expense]] you log, every Check-in you create, and every mile you drive is silently and automatically tagged and permanently attached to this specific Expedition.
+* **Automatic Aggregation:** Every [[Money/Reference/Adding Transactions|financial expense]] you log, every Check-in you create, and every mile you drive is silently and automatically tagged and permanently attached to this specific Expedition.
 
 ---
 

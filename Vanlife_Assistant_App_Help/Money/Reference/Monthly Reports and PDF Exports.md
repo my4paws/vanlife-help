@@ -54,4 +54,4 @@ Whether you want to print a physical copy for your records, or email a summary t
 
 ### Need raw data instead?
 If you are a spreadsheet nerd and want to build your own pivot tables in Excel or Numbers, you don't want a PDF!
-👉 *Check out [[CSV Export Service]] to learn how to download your raw Ledger data.*
+👉 *Check out [[Money/Reference/Exporting Your Data (CSV)|CSV Export Service]] to learn how to download your raw Ledger data.*

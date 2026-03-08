@@ -80,7 +80,7 @@ To get useful answers from this, make sure your frequently-used kits are:
 1. In the Gear List as templates
 2. Tagged with an appropriate context (Hiking, Skiing, Beach, etc.)
 
-The [[The_Loading_Bay|Loading Bay]] can then be used to quickly load those items from offboard or other-van storage into the active van when you need them.
+The [[Van/Manifest/Tutorials/The_Loading_Bay|Loading Bay]] can then be used to quickly load those items from offboard or other-van storage into the active van when you need them.
 
 ---
 
@@ -95,4 +95,4 @@ Deleting a template removes it from the Gear List but does not affect live items
 ## Related Articles
 - [[Understanding_the_Manifest|Understanding the Manifest]]
 - [[Adding_and_Editing_Items|Adding and Editing Items]]
-- [[The_Loading_Bay|The Loading Bay]]
+- [[Van/Manifest/Tutorials/The_Loading_Bay|The Loading Bay]]

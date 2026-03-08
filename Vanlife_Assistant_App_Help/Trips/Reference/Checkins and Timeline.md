@@ -30,7 +30,7 @@ The Check-in Wizard will let you log:
 - **Photos:** A hero image from your camera roll to capture the moment.
 - **Journal Notes:** (e.g., "Great 4G signal here, but very windy at night!").
 
-Once saved, this Check-in is dropped onto your [[Unified History Map]] and added to the chronological Timeline of your current [[Creating a Trip|Expedition]].
+Once saved, this Check-in is dropped onto your [[Unified History Map]] and added to the chronological Timeline of your current [[Trips/Tutorials/Creating a Trip (Expeditions)|Expedition]].
 
 ### The Five Place Types
 
@@ -75,8 +75,8 @@ If you are deep in a forest, GPS accuracy can drop to a 50-metre radius.
 
 ## Related Articles
 
-- [[Creating a Trip]]
+- [[Trips/Tutorials/Creating a Trip (Expeditions)|Creating a Trip]]
 - [[Check-in Services and Journaling]]
 - [[The Magic of Check-ins - Automated Journaling]]
 - [[Using the Whiteboard]]
-- [[Drive Recorder]]
+- [[Trips/Reference/Drive Recorder|Drive Recorder]]

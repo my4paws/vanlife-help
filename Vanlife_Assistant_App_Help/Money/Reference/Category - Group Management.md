@@ -53,10 +53,10 @@ We have provided a library of over 100 custom-designed vanlife icons—from "sol
 This is one of the most powerful features in Vanlife Assistant. When you flag a category as a **Vehicle Expense**, you unlock the app's mechanical brain.
 
 * **The Odometer Trigger:** When you log an expense in a Vehicle category (like "Fuel" or "Maintenance"), the app will automatically ask for your current mileage.
-* **Mechanical Logic:** Flagging a category as "Service" or "Repair" ensures these costs appear in your [[Maintenance Tracking]] timeline and contribute to your "Vehicle Health" alerts.
+* **Mechanical Logic:** Flagging a category as "Service" or "Repair" ensures these costs appear in your [[Van/The Van/Reference/The_Service_Logbook|Maintenance Tracking]] timeline and contribute to your "Vehicle Health" alerts.
 
 > ✨ **Magic Feature: Trip Defaults**
-> Do you have "Fixed Costs" like van insurance or a Netflix subscription that you pay regardless of where you are? Inside the Category Editor, toggle **Default to No Trip**. This ensures these bills don't clutter up your specific [[Creating a Trip|Travel Expedition]] stats!
+> Do you have "Fixed Costs" like van insurance or a Netflix subscription that you pay regardless of where you are? Inside the Category Editor, toggle **Default to No Trip**. This ensures these bills don't clutter up your specific [[Trips/Tutorials/Creating a Trip (Expeditions)|Travel Expedition]] stats!
 
 ---
 
@@ -73,5 +73,5 @@ Over time, your needs might change. You might finish your "Van Build" and no lon
 
 Now that your buckets are organized, let's look at the "Who" and the "Where" of your spending—the difference between a Shop and a Label.
 
-👉 **[[Vendors vs. Categories - Organizing Your Ledger]]**
-👉 **[[Mastering Ledger Search - Filters]]**
+👉 **[[Money/Reference/Vendors vs. Categories - Organising Your Ledger|Vendors vs. Categories - Organizing Your Ledger]]**
+👉 **[[Money/Reference/Mastering Ledger Search & Filters|Mastering Ledger Search - Filters]]**

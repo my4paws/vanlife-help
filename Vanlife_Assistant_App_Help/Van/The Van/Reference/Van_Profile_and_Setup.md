@@ -85,13 +85,13 @@ The maximum legal total weight of the fully-loaded vehicle — driver, passenger
 ### Kerb Weight
 The weight of the empty vehicle with a full fuel tank and all standard fluids but no cargo or passengers. Also in the V5C logbook or your manufacturer's handbook.
 
-These two values together define your payload allowance: **GVM − Kerb Weight = Payload Allowance**. Set them correctly and the payload ring on the Manifest tab becomes a reliable tool. See [[Payload_and_Weight_Management|Payload and Weight Management]].
+These two values together define your payload allowance: **GVM − Kerb Weight = Payload Allowance**. Set them correctly and the payload ring on the Manifest tab becomes a reliable tool. See [[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]].
 
 ### Fuel Tank Capacity & Water Tank Capacity
 Enter in litres. These are used to calculate the weight of fuel and water when the Weight Distribution toggle is enabled — a full 100L water tank adds 100kg to your payload.
 
 ### Weight Distribution (Toggle)
-When on, fuel and water tank sliders appear on the Manifest payload header, and fuel/water weight is included in the payload calculation and heatmap. The fuel and water tanks are also painted onto the heatmap at whatever grid position you set (see [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]).
+When on, fuel and water tank sliders appear on the Manifest payload header, and fuel/water weight is included in the payload calculation and heatmap. The fuel and water tanks are also painted onto the heatmap at whatever grid position you set (see [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]).
 
 ---
 
@@ -168,5 +168,5 @@ The ticker tape is the horizontal scrolling strip of specs that appears on the V
 - [[Managing_Your_Fleet|Managing Your Fleet]]
 - [[Compliance_and_Legal_Dates|Compliance and Legal Dates]]
 - [[The_Maintenance_Schedule|The Maintenance Schedule]]
-- [[Payload_and_Weight_Management|Payload and Weight Management]]
+- [[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]]
 - [[Level_Assist|Level Assist]]

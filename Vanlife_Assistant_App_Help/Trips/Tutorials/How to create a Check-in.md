@@ -24,7 +24,7 @@ Navigate to the **Trips** tab and tap on your current Expedition. Tap the massiv
 
 **2. Choose your Starting Point**
 The **Check-in Wizard** will appear. You have two choices:
-* **The Magic Way (Recommended):** Tap one of the recent photos displayed in the horizontal carousel. The app will use this photo to instantly auto-fill your location, altitude, weather, and AI tags. *(See [[The Magic of Check-ins: Automated Journaling]] for how this works).*
+* **The Magic Way (Recommended):** Tap one of the recent photos displayed in the horizontal carousel. The app will use this photo to instantly auto-fill your location, altitude, weather, and AI tags. *(See [[Trips/Reference/The Magic of Check-ins - Automated Journaling|The Magic of Check-ins: Automated Journaling]] for how this works).*
 * **The Manual Way:** If you didn't take a photo, scroll to the bottom and tap **"Create Manually"**.
 
 **3. Set the Type and Rating**

@@ -67,7 +67,7 @@ A van with two adults (75kg each) is already carrying 150kg of crew weight befor
 
 If a crew member isn't travelling on a particular trip, you don't need to delete them — just be aware their weight is currently included. The crew total is always the sum of all profiles in the list.
 
-See [[Payload_and_Weight_Management|Payload and Weight Management]] for the full calculation breakdown.
+See [[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]] for the full calculation breakdown.
 
 ---
 
@@ -84,5 +84,5 @@ Open the passport sheet for the crew member and tap **Delete** at the bottom. An
 ---
 
 ## Related Articles
-- [[Payload_and_Weight_Management|Payload and Weight Management]]
+- [[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]]
 - [[Van_Profile_and_Setup|Setting Up Your Van Profile]]

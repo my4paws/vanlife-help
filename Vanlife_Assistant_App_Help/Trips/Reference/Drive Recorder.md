@@ -49,6 +49,6 @@ If the app is forcefully closed, the very next time you open Vanlife Assistant, 
 The Drive Recorder has a strict "Quality Policy" to prevent bad data. If you drive through a long tunnel and lose GPS, and then reconnect on the other side, the app will connect those two points with a straight line. The engine is also programmed to reject "Teleports" (if the GPS accidentally bounces you 50km away for a split second) to keep your map clean.
 
 ## Related Articles
-* [[Elevation Charts]]
-* [[Checkins and Timeline]]
+* [[Trips/Reference/Elevation Charts|Elevation Charts]]
+* [[Trips/Reference/Checkins and Timeline|Checkins and Timeline]]
 * [[Permissions Explained]]

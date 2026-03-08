@@ -17,7 +17,7 @@ last_updated: "2026-02-21"
 For full-time nomads, keeping track of exactly which day you entered or exited a country is a massive headache—especially when dealing with complex visa rules. **Border Crossing Detection** uses your device's location to automatically log these transitions in your database, creating a permanent, legally helpful record of your movements.
 
 ## How It Works
-The app maintains an offline database of global country borders. As your location updates in the background (either via the [[Drive Recorder]] or a manual [[Checkins and Timeline|Check-in]]), the app cross-references your coordinates against these borders.
+The app maintains an offline database of global country borders. As your location updates in the background (either via the [[Trips/Reference/Drive Recorder|Drive Recorder]] or a manual [[Trips/Reference/Checkins and Timeline|Check-in]]), the app cross-references your coordinates against these borders.
 
 When the app detects that you have crossed from one country to another:
 1. It instantly creates a **Border Crossing Event** in your timeline.
@@ -41,6 +41,6 @@ If you had your phone turned off or in Airplane mode for three days after crossi
 
 ## Related Articles
 * [[Schengen Calculator]]
-* [[Drive Recorder]]
-* [[Checkins and Timeline]]
+* [[Trips/Reference/Drive Recorder|Drive Recorder]]
+* [[Trips/Reference/Checkins and Timeline|Checkins and Timeline]]
 * [[Emergency Mode: What it is and how to use it]] *(Emergency numbers update automatically based on your detected country!)*

@@ -15,11 +15,11 @@ This index links to help articles in this section.
 - [[Sync and Backups]]
 - [[Welcome to Vanlife Assistant Help Desk]]
 - [[Welcome to Vanlife Assistant]]
-- [[Troubleshooting Overview]]
+- [[Getting_Started/Troubleshooting/Troubleshooting_Overview|Troubleshooting Overview]]
 
 ## Related Articles
-- [[Settings Index]]
-- [[Weather Index]]
+- [[Settings/Index|Settings Index]]
+- [[Trips/Weather/Index|Weather Index]]
 - [[Glovebox Index]]
-- [[Emergency Mode Index]]
+- [[Trips/Emergency_Mode/Index|Emergency Mode Index]]
 

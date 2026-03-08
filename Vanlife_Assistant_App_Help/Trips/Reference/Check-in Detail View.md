@@ -50,7 +50,7 @@ Directly beneath the hero image, a compact header assembles everything that iden
 
 Below the header, a flowing grid of icon-and-label tiles shows the **place type and every service** recorded at this stop — all in one glance.
 
-The first tile always shows the [[Checkins and Timeline|place type]] (Wild Camp, Free Aire, Paid Aire, Campsite, or Unspecified) in its map colour. Every enabled service follows: Electricity (with a distinction between free and paid), Water, Toilets, Showers, Laundry, Grey Waste, Black Waste, and Trash. Only services you recorded appear — the grid never shows empty slots.
+The first tile always shows the [[Trips/Reference/Checkins and Timeline|place type]] (Wild Camp, Free Aire, Paid Aire, Campsite, or Unspecified) in its map colour. Every enabled service follows: Electricity (with a distinction between free and paid), Water, Toilets, Showers, Laundry, Grey Waste, Black Waste, and Trash. Only services you recorded appear — the grid never shows empty slots.
 
 ---
 
@@ -79,7 +79,7 @@ The grid shows up to **9 photos** at a time. If there are more, a **Show All (n)
 
 ## Travel Day
 
-If you used the [[Drive\_Recorder|Drive Recorder]] on the same calendar day as this check-in, a **Travel Day** section appears at the bottom of the view. This is the per-stop equivalent of the expedition-level [[Elevation\_Charts|Expedition Profile]] — everything scoped to just this one day's driving.
+If you used the [[Trips/Reference/Drive Recorder|Drive Recorder]] on the same calendar day as this check-in, a **Travel Day** section appears at the bottom of the view. This is the per-stop equivalent of the expedition-level [[Trips/Reference/Elevation Charts|Expedition Profile]] — everything scoped to just this one day's driving.
 
 ### Drive Stats Bar
 A horizontally scrollable strip of four statistics covering all drives recorded that day:
@@ -121,7 +121,7 @@ The gallery pulls from your iPhone's Camera Roll using location and timestamp ma
 Weather data is attached at creation time by the [[The Magic of Check-ins - Automated Journaling|photo-first check-in wizard]]. If you created the check-in manually without a photo, weather may not have been captured. The app will attempt to load historical weather when you open the detail view — this requires an internet connection and may take a moment.
 
 **The Travel Day section is missing.**
-This section only renders when Drive Logs exist for the same calendar day as the check-in. Make sure you had the [[Drive\_Recorder|Drive Recorder]] running during your drive to that stop. Drives recorded on a different day won't appear here even if they're part of the same expedition.
+This section only renders when Drive Logs exist for the same calendar day as the check-in. Make sure you had the [[Trips/Reference/Drive Recorder|Drive Recorder]] running during your drive to that stop. Drives recorded on a different day won't appear here even if they're part of the same expedition.
 
 **I set a photo as the cover but the hero image didn't update.**
 Try closing and reopening the Check-in Detail View. The hero match is saved to the database immediately, but the photo loader occasionally needs a fresh load to pick up the change.
@@ -129,10 +129,10 @@ Try closing and reopening the Check-in Detail View. The hero match is saved to t
 ---
 
 ## Related Articles
-* [[Checkins\_and\_Timeline|Check-ins and Timeline]]
+* [[Trips/Reference/Checkins and Timeline|Check-ins and Timeline]]
 * [[Check-in Services and Journaling]]
 * [[The Magic of Check-ins - Automated Journaling]]
 * [[Postcard Generator]]
-* [[Drive\_Recorder|Drive Recorder]]
-* [[Elevation\_Charts|Elevation Charts]]
+* [[Trips/Reference/Drive Recorder|Drive Recorder]]
+* [[Trips/Reference/Elevation Charts|Elevation Charts]]
 * [[Trip Detail View]]

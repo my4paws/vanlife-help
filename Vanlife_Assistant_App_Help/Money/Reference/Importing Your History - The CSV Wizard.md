@@ -69,5 +69,5 @@ Suddenly, those "12-Month Heartbeat" charts and "10-Year Runway" forecasts aren'
 
 Now that your history is in the app, it's time to see what your future looks like! Head over to the dashboard to see your newly calculated lifetime runway.
 
-👉 **[[The Money Dashboard - Your Financial Command Center]]**
+👉 **[[Money/Reference/The Money Dashboard - Your Financial GPS|The Money Dashboard - Your Financial Command Center]]**
 👉 **[[Understanding Financial Scenarios]]**

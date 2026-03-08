@@ -7,7 +7,7 @@ aliases:
 category: "Settings"
 type: "Index"
 tags: [help, vanlife-assistant, settings, index]
-last_updated: "2026-02-21"
+last_updated: "2026-03-08"
 ---
 
 # ⚙️ Settings Help Centre
@@ -19,11 +19,11 @@ From the main Settings tab, you can manage your Crew (adding humans and pets to 
 Choose an article below to learn how to configure your app:
 
 ### Core Configuration
-* **[[Managing The Crew and Fleet Manager]]** - *Learn how to add travellers (and pets!), set up their passports, and manage your vehicles.*
-* **[[Configuring the Core Engines]]** - *Set up your Trips home location, Money assumptions, Voice assistant, and Smart Van integrations.*
-* **[[How to change units (Metric-Imperial, Currency)]]** - *Learn how to switch between metric and imperial units, and set your home currency.*
-* **[[Customising Notification Preferences]]** - *Set quiet hours, customise overdue reminder frequency, and configure document expiry alerts.*
+* **[[Managing The Crew and Fleet Manager]]** — *Learn how to add travellers (and pets!), set up their passports, and manage your vehicles.*
+* **[[Configuring the Core Engines]]** — *Set up your Trips home location, Money assumptions, Voice assistant, and Smart Van integrations.*
+* **[[How to change units (Metric-Imperial, Currency)]]** — *Learn how to switch between metric and imperial units, and set your home currency.*
+* **[[Customising Notification Preferences]]** — *Set quiet hours, customise overdue reminder frequency, and configure document expiry alerts.*
 
 ### Advanced Tools & Privacy
-* **[[Data Management and Database Cleanup]]** - *Learn how to use the built-in health scanner to merge duplicated categories, fix manifest errors, and safely wipe your data.*
-* **[[Privacy, Security and FaceID]]** - *Understand our zero-data policy and how to lock the app from prying eyes.*
+* **[[Data Management and Database Cleanup]]** — *Learn how to use the built-in health scanner to merge duplicated categories, fix manifest errors, and safely wipe your data.*
+* **[[Privacy, Security and FaceID]]** — *Understand our zero-data policy and how to lock the app with Face ID or Touch ID, plus how to manage iOS permissions from inside the app.*

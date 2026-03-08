@@ -75,4 +75,4 @@ The records grid can show up to eight categories:
 - [[The Trips Dashboard]]
 - [[Check-in Services and Journaling]] _(Adding ratings, cost, and services makes your Records grid much richer!)_
 - [[The Magic of Check-ins - Automated Journaling]] _(Weather data is automatically attached when you use the photo-first wizard)_
-- [[Border Crossing Detection]]
+- [[Trips/Reference/Border Crossing Detection|Border Crossing Detection]]

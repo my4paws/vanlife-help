@@ -30,6 +30,6 @@ The Whiteboard is your van's shared brain — always a pull gesture away, no mat
 ---
 
 ## Related Features
-* [[Setting up your Van's Zones]] *(Required for location triggers)*
+* [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting up your Van's Zones]] *(Required for location triggers)*
 * [[Van/Manifest/Understanding_the_Manifest]] *(Where Stowed items end up)*
 * [[Permissions Explained|Permissions Explained]] *(Always Allow location for geofencing)*

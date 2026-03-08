@@ -49,7 +49,7 @@ When the item's quantity drops to or below the threshold, the zone detail view s
 
 Two buttons appear: **Add to Shopping List** and **Ignore**.
 
-Tapping **Add to Shopping List** creates a new item on your default shopping list in the Whiteboard and shows a brief confirmation toast. You don't need to leave the Manifest — the item is added in the background and will be waiting on the Whiteboard when you next check it. See [[Using_the_Whiteboard|Using the Whiteboard]].
+Tapping **Add to Shopping List** creates a new item on your default shopping list in the Whiteboard and shows a brief confirmation toast. You don't need to leave the Manifest — the item is added in the background and will be waiting on the Whiteboard when you next check it. See [[Whiteboard/Reference/Using the Whiteboard|Using the Whiteboard]].
 
 Tapping **Ignore** dismisses the alert without taking any action. The alert will reappear the next time you open that zone while the item is still below threshold.
 
@@ -130,4 +130,4 @@ Check that the item's expiry date is actually set — open the item editor and c
 - [[Understanding_the_Manifest|Understanding the Manifest]]
 - [[Adding_and_Editing_Items|Adding and Editing Items]]
 - [[Stocktaking_with_the_Audit_Tool|Stocktaking with the Audit Tool]]
-- [[Using_the_Whiteboard|Using the Whiteboard]]
+- [[Whiteboard/Reference/Using the Whiteboard|Using the Whiteboard]]

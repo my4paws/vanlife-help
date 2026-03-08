@@ -45,7 +45,7 @@ You don't need to log a fake transaction to fix this!
 
 ## 🚐 Vehicles as Fixed Assets
 At the top of your Accounts list, you might notice a **Vehicles** section. 
-Because your van is likely your biggest financial asset, the app automatically pulls your van's current value directly from your [[Vehicle Specifications|Van Profile]]! Just like a bank account, you can decide whether your van's value should be included in your Net Worth and Runway calculations.
+Because your van is likely your biggest financial asset, the app automatically pulls your van's current value directly from your [[Van/The Van/Reference/Van_Profile_and_Setup|Van Profile]]! Just like a bank account, you can decide whether your van's value should be included in your Net Worth and Runway calculations.
 
 ---
 

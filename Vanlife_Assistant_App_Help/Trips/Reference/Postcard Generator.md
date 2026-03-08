@@ -19,7 +19,7 @@ last\_updated: "2026-02-22"
 # 📮 Postcard Generator
 
 ## Overview
-Every great parkup deserves more than a raw phone photo. The **Postcard Generator** transforms any [[Checkins\_and\_Timeline|Check-in's]] hero photograph into a beautifully designed, shareable postcard — automatically layered with the location name, date, GPS coordinates, altitude, and weather conditions captured at the time.
+Every great parkup deserves more than a raw phone photo. The **Postcard Generator** transforms any [[Trips/Reference/Checkins and Timeline|Check-in's]] hero photograph into a beautifully designed, shareable postcard — automatically layered with the location name, date, GPS coordinates, altitude, and weather conditions captured at the time.
 
 Three distinct visual styles give you a different aesthetic for different moods. The result is a high-resolution 3:4 image you can send directly to friends, post on Instagram, or drop into a message — a proper memory, not just a snapshot.
 
@@ -27,7 +27,7 @@ Three distinct visual styles give you a different aesthetic for different moods.
 
 ## How to Open It
 
-The Postcard Generator lives inside the **[[TripCheckInDetailView|Check-in Detail View]]**.
+The Postcard Generator lives inside the **[[Trips/Reference/Check-in Detail View|Check-in Detail View]]**.
 
 1. Open any expedition from the [[Trip Detail View|Trip Detail View]].
 2. Tap a check-in card in the Travel Feed to open its detail page.
@@ -121,7 +121,7 @@ Not from within the Postcard Generator itself — but you can tap **Close**, edi
 ---
 
 ## Related Articles
-* [[TripCheckInDetailView|Check-in Detail View]]
+* [[Trips/Reference/Check-in Detail View|Check-in Detail View]]
 * [[The Magic of Check-ins - Automated Journaling]]
-* [[Checkins\_and\_Timeline|Check-ins and Timeline]]
+* [[Trips/Reference/Checkins and Timeline|Check-ins and Timeline]]
 * [[Trip Detail View]]
