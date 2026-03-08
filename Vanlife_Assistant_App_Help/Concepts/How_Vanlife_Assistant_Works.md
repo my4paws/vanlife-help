@@ -61,7 +61,7 @@ The Trips system is the spine of the app. Every journey is structured as an **ex
 
 Everything in the Trips system feeds everywhere else. Your check-ins contribute to your Schengen counter, your country map, your All-Time Records, and your spending history. Your drives build the elevation charts and route maps that appear in Trip Detail View.
 
-→ See [[The Trip Structure Explained]]
+→ See [[The_Trip_Structure_Explained]]
 
 ### 💰 Money
 
@@ -75,7 +75,7 @@ On top of the Ledger sit three layers of intelligence:
 
 Money is aware of your van: fuel costs feed directly from your fuel log, and vehicle expenses are flagged separately so you can see your true living costs vs your van's running costs.
 
-→ See [[The Ledger — How Spending Is Recorded]]
+→ See [[The_Ledger_How_Spending_Is_Recorded]]
 
 ### 🚐 Van
 
@@ -91,7 +91,7 @@ The Van system holds your vehicle's complete digital life:
 
 The Van tab's title in the tab bar dynamically updates to show your currently active vehicle's name.
 
-→ See [[The Manifest System — How Gear Is Organised]]
+→ See [[The_Manifest_System_How_Gear_Is_Organised]]
 
 ### 🔍 Spots
 
@@ -101,19 +101,19 @@ You bring your own datasets. Spots are organised into **packs** — named collec
 
 The Spots Vault is accessed from inside the **Travel** tab alongside the Trips dashboard.
 
-→ See [[The Spots Vault]]
+→ See [[The_Spots_Vault]]
 
 ### 🏠 SmartVan
 
 SmartVan brings your van's HomeKit accessories — lights, switches, sensors, cameras, locks — into a single control surface designed for van life. It lives within the Van tab but connects outward to the rest of the app: Van Modes can trigger automations via the Van Brain rules engine, and the weather card on the Trips dashboard reflects your current location's conditions in real time.
 
-→ See [[SmartVan Index]]
+→ See [[SmartVan_Index]]
 
 ### 🎙️ Voice Assistant
 
 The Voice Assistant is a natural language interface that can read from and write to all of the above systems. It understands follow-up questions, date ranges, comparisons, and context carried across a conversation. It can log a spend, find a document, locate an item in the manifest, check your Schengen status, or set a whiteboard reminder — without touching the screen.
 
-→ See [[Voice Assistant Index]]
+→ See [[Voice_Index|Voice Assistant Index]]
 
 ---
 
@@ -125,7 +125,7 @@ Understanding where your data lives explains a lot about how the app behaves.
 
 **SQLite (local only)** is where the Spots Vault lives. The location database never syncs to iCloud — it stays on device for performance, privacy, and because large dataset files are not practical to cloud-sync. If you move to a new phone, you import your packs again from file.
 
-→ See [[CloudKit Sync Behaviour]] and [[Offline-First Design]]
+→ See [[CloudKit_Sync_Behaviour]] and [[Offline-First_Design]]
 
 ---
 
@@ -150,7 +150,7 @@ The app knows which van you're currently using. Manifest items belong to zones o
 If this is your first time using the app, the best place to start is the onboarding guide — it walks you through setting up your van profile, connecting your accounts, and creating your first expedition.
 
 - [[Onboarding Guide]] — *First-time setup, step by step*
-- [[The Trip Structure Explained]] — *How expeditions, drives, and check-ins fit together*
-- [[Check-ins — The Engine of the Travel Journal]] — *Why check-ins are central to the whole app*
-- [[Spots vs Check-ins — What's the Difference?]] — *Clearing up the most common point of confusion*
-- [[The Manifest System — How Gear Is Organised]] — *How inventory tracking works*
+- [[The_Trip_Structure_Explained]] — *How expeditions, drives, and check-ins fit together*
+- [[Check-ins_The_Engine_of_the_Travel_Journal]] — *Why check-ins are central to the whole app*
+- [[Spots_vs_Check-ins_Whats_the_Difference]] — *Clearing up the most common point of confusion*
+- [[The_Manifest_System_How_Gear_Is_Organised]] — *How inventory tracking works*

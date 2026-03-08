@@ -53,7 +53,7 @@ Route Conditions requires an internet connection to fetch forecasts. The Oracle 
 
 ## Weather on Check-ins
 
-Every time you save a [[Trips/Reference/Checkins and Timeline|check-in]], the app silently fetches and stores a weather snapshot for that exact location and time. This becomes a permanent part of the check-in record.
+Every time you save a [[Checkins and Timeline|check-in]], the app silently fetches and stores a weather snapshot for that exact location and time. This becomes a permanent part of the check-in record.
 
 ### What Gets Captured
 
@@ -61,7 +61,7 @@ The check-in stores: temperature, weather condition description, wind speed and 
 
 ### Viewing Check-in Weather
 
-On any [[Trips/Reference/Check-in Detail View|check-in detail view]], scroll down to the weather section. The condition icon, temperature, wind, and sunrise/sunset are displayed alongside the check-in's location and time. Historical check-in weather is also visible in the Travel Feed in the [[Trips/Reference/Trip Detail View|Trip Detail View]] — each check-in card shows the condition and temperature at that moment.
+On any [[Check-in Detail View|check-in detail view]], scroll down to the weather section. The condition icon, temperature, wind, and sunrise/sunset are displayed alongside the check-in's location and time. Historical check-in weather is also visible in the Travel Feed in the [[Trip Detail View|Trip Detail View]] — each check-in card shows the condition and temperature at that moment.
 
 ### Using Weather to Search Check-ins
 
@@ -88,7 +88,7 @@ The assistant fetches live WeatherKit data for your current location and respond
 ## Related Articles
 
 - [[The_Solar_and_Weather_Card|The Solar & Weather Card]] — The live solar compass and forecast card on the Trips Dashboard
-- [[Trips/Weather/Deep Dive/How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]] — Triggering van automations based on weather thresholds
+- [[How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]] — Triggering van automations based on weather thresholds
 - [[Trip_Planner_and_Route_Builder|Trip Planner & Route Builder]] — Building routes and accessing the Route Conditions Oracle
-- [[Trips/Reference/Checkins and Timeline|Check-ins & Timeline]] — How check-ins record your location, time, and conditions
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] — Location and WeatherKit permission requirements
+- [[Checkins and Timeline|Check-ins & Timeline]] — How check-ins record your location, time, and conditions
+- [[Permissions Explained|Permissions Explained]] — Location and WeatherKit permission requirements

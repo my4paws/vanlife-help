@@ -82,4 +82,4 @@ That is where follow-up questions really shine.
 - [[Voice_Conversation|Multi-Turn Conversations]]
 - [[Understanding Date Ranges]]
 - [[Date Range Queries]]
-- [[Voice Assistant Index]]
+- [[Voice_Index|Voice Assistant Index]]

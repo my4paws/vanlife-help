@@ -28,7 +28,7 @@ We call this number your **Runway**. To calculate it accurately, the app uses **
 To predict the exact month and year your bank account will hit zero, the app's Runway Engine looks at three things:
 
 ### 1. The Nest Egg (Your Pot)
-This is your starting line. The app calculates your total wealth by adding up all your positive accounts (Checking, Savings, Cash) and subtracting your liabilities (Credit Cards, Loans). 👉 *See [[Money/Reference/Managing Accounts|Accounts View]]*
+This is your starting line. The app calculates your total wealth by adding up all your positive accounts (Checking, Savings, Cash) and subtracting your liabilities (Credit Cards, Loans). 👉 *See [[Managing Accounts|Accounts View]]*
 
 ### 2. Scenarios (Your Baseline Budget)
 A **Scenario** is simply a monthly budget. You can create as many Scenarios as you want to represent different phases of your trip.

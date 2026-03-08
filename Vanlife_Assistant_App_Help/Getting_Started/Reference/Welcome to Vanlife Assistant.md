@@ -30,7 +30,7 @@ Living in a small space means every square inch counts. The **Manifest** is your
 * Divide your van into custom **Zones** (e.g., "Under Bed," "Kitchen Galley").
 * Digitally **Stow** items so you never have to tear apart the van looking for a specific tool.
 * Print and scan **QR Codes** to instantly see what's inside a box without opening it.
-👉 *Learn more in the [[Van/Manifest/Understanding_the_Manifest]] guide.*
+👉 *Learn more in the [[Understanding_the_Manifest]] guide.*
 
 ### 2. Trips & Navigation
 More than just a map, the **Trips** module logs your epic journeys and keeps you legally compliant.
@@ -64,7 +64,7 @@ Hands covered in grease? Driving down the highway? Just ask your van!
 * Say: *"Log 50 Euros for diesel."*
 * Ask: *"Where did I put the heavy duty jump leads?"*
 * Say: *"Add milk to the whiteboard."*
-👉 *Learn more in the [[Voice Assistant/Voice_Index|Voice Assistant Index]].*
+👉 *Learn more in the [[Voice_Index|Voice Assistant Index]].*
 
 ---
 

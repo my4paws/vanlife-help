@@ -111,4 +111,4 @@ This is why it's important to set up your Crew correctly in Settings, including 
 
 → See [[Schengen Calculator]] for the status card UI
 → See [[How to create a Check-in]] — check-ins are your most reliable Schengen data source
-→ See [[Border Crossings and Country Detection]] — how GPS transitions are recorded automatically
+→ See [[Border_Crossings_and_Country_Detection]] — how GPS transitions are recorded automatically

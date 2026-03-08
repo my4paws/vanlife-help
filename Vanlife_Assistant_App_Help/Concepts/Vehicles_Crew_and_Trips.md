@@ -118,8 +118,8 @@ If you operate two vans simultaneously (e.g. a couple with separate vehicles on 
 
 ## Related Articles
 
-- [[Fleet Manager]] — *Adding and managing multiple vans*
-- [[Setting Up Your Van Profile]] — *First-time van configuration*
-- [[The Manifest System — How Gear Is Organised]] — *Why inventory belongs to a van*
-- [[Schengen Tracking Explained]] — *How Traveller nationality affects the counter*
-- [[Payload and Weight Management]] — *Crew weight in the payload calculation*
+- [[Managing_Your_Fleet|Fleet Manager]] — *Adding and managing multiple vans*
+- [[Van_Profile_and_Setup|Setting Up Your Van Profile]] — *First-time van configuration*
+- [[The_Manifest_System_How_Gear_Is_Organised]] — *Why inventory belongs to a van*
+- [[Schengen_Tracking_Explained]] — *How Traveller nationality affects the counter*
+- [[Payload_and_Weight_Management]] — *Crew weight in the payload calculation*

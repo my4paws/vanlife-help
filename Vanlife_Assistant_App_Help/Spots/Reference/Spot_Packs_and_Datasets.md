@@ -75,7 +75,7 @@ My Places cannot be swiped to delete. If you want to clear individual spots from
 
 ## Importing a New Dataset
 
-Tap the **download icon** (↓) in the Dataset Manager toolbar to launch the **Import Wizard**. See [[Spots/Reference/Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]] for a full step-by-step walkthrough.
+Tap the **download icon** (↓) in the Dataset Manager toolbar to launch the **Import Wizard**. See [[Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]] for a full step-by-step walkthrough.
 
 In brief:
 1. Select a CSV file from Files
@@ -105,5 +105,5 @@ This usually means the latitude and longitude columns weren't mapped correctly, 
 
 ## Related Articles
 - [[The_Spots_Vault|The Spots Vault]]
-- [[Spots/Reference/Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]]
+- [[Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]]
 - [[Spot_Detail_Reconnaissance|Spot Detail & Reconnaissance]]

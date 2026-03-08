@@ -46,7 +46,7 @@ Everything in Spots is stored locally in a high-performance on-device database. 
 ## 📦 Datasets & My Places
 
 - 👉 **[[Spot_Packs_and_Datasets|Spot Packs & the Dataset Manager]]** — *What Spot Packs are, the protected My Places collection, toggling dataset visibility, deleting imported packs, and checking storage size.*
-- 👉 **[[Spots/Reference/Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]]** — *Step-by-step guide for bringing an external CSV of locations into your Vault.*
+- 👉 **[[Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]]** — *Step-by-step guide for bringing an external CSV of locations into your Vault.*
 
 ---
 
@@ -71,7 +71,7 @@ Everything in Spots is stored locally in a high-performance on-device database. 
 
 ## Related Features
 
-- [[Trips/Reference/Checkins and Timeline|Check-ins and Timeline]] *(Promoted waypoints become Check-ins)*
+- [[Checkins and Timeline|Check-ins and Timeline]] *(Promoted waypoints become Check-ins)*
 - [[Van_Profile_and_Setup|Van Profile and Setup]] *(Sets your vehicle dimensions for size filtering)*
 - [[Fuel_Log_and_Economy|Fuel Log and Economy]] *(Source of the fuel cost estimate in the route sheet)*
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] *(Location permission required for Spots Vault)*
+- [[Permissions Explained|Permissions Explained]] *(Location permission required for Spots Vault)*

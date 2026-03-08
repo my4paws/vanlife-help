@@ -116,7 +116,7 @@ Scheduled transactions appear in the Ledger as future entries until they're due,
 
 The Ledger supports CSV import for batch-loading transaction history. The import wizard walks you through mapping columns from your bank's export format to the app's fields. This is useful both for setting up an initial history and for periodically syncing transactions from your bank without manual entry.
 
-→ See [[Importing Transactions from a CSV File]] for the step-by-step process.
+→ See [[Importing Your History - The CSV Wizard|Importing Transactions from a CSV File]] for the step-by-step process.
 
 ---
 
@@ -142,9 +142,9 @@ The Ledger is not just a log — it's the data source for most of the Money tab'
 
 ## Related Articles
 
-- [[Accounts, Categories and Vendors]] — *Reference guide to each field*
-- [[Scenarios and Financial Forecasting]] — *How budget plans and projections work*
-- [[The Ledger View]] — *The transaction list UI*
+- [[Vendors vs. Categories - Organising Your Ledger|Accounts, Categories and Vendors]] — *Reference guide to each field*
+- [[Scenarios_and_Financial_Forecasting]] — *How budget plans and projections work*
+- [[Mastering Ledger Search & Filters|The Ledger View]] — *The transaction list UI*
 - [[Mastering Ledger Search & Filters]] — *Finding and filtering transactions*
-- [[Importing Transactions from a CSV File]] — *Batch importing from your bank*
+- [[Importing Your History - The CSV Wizard|Importing Transactions from a CSV File]] — *Batch importing from your bank*
 - [[Scheduled Transactions]] — *Recurring entries*

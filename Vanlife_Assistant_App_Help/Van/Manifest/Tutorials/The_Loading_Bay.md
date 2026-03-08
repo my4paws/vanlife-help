@@ -100,7 +100,7 @@ This sheet is the fastest route when you know exactly where one thing needs to g
 The item moved to the destination zone. Check the destination zone on the home screen — it should show an increased item count. If the destination was an offboard zone, the item won't appear in the onboard inventory sections.
 
 **The destination zone isn't in the list.**
-Only zones that currently exist appear in the picker. If you need to move items to a new zone, create the zone first via the Zone Manager. See [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]].
+Only zones that currently exist appear in the picker. If you need to move items to a new zone, create the zone first via the Zone Manager. See [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]].
 
 **Can I move items to another van in my fleet?**
 Yes. The route selector includes all vans in your fleet grouped under their vehicle names. Moving items to another van's zones works identically to moving within your active van.
@@ -112,6 +112,6 @@ Yes — use Select All in the Loading Bay with the relevant source zone selected
 
 ## Related Articles
 - [[Understanding_the_Manifest|Understanding the Manifest]]
-- [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
+- [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
 - [[Containers_and_QR_Labels|Containers and QR Labels]]
-- [[Van/Manifest/Tutorials/The_Gear_List|The Gear List]]
+- [[The_Gear_List|The Gear List]]

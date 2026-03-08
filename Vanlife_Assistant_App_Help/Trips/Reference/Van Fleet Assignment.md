@@ -37,7 +37,7 @@ When you create a new expedition, the van assignment happens silently in the bac
 For most users — those with a single van — this is completely transparent. Your trips are linked to your van and everything works as expected without any extra steps.
 
 ### What "Primary Vehicle" Means
-Your primary vehicle is simply your first van — the one created earliest in the app. In the [[Trips/Reference/Van Fleet Assignment#The Fleet Manager|Fleet Manager]], the **Active Vehicle** badge marks which van is currently selected for your Dashboard, Maintenance tracking, and Drive Recorder. You can switch the active vehicle at any time, and the Trips tab will still show all your expeditions regardless of which van is currently active.
+Your primary vehicle is simply your first van — the one created earliest in the app. In the [[Van Fleet Assignment#The Fleet Manager|Fleet Manager]], the **Active Vehicle** badge marks which van is currently selected for your Dashboard, Maintenance tracking, and Drive Recorder. You can switch the active vehicle at any time, and the Trips tab will still show all your expeditions regardless of which van is currently active.
 
 ---
 
@@ -103,7 +103,7 @@ Van-per-trip selection in the expedition editor is on the roadmap but not yet re
 ---
 
 ## Related Articles
-* [[Trips/Tutorials/Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]]
+* [[Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]]
 * [[The Trips Dashboard]]
-* [[Trips/Reference/Drive Recorder|Drive Recorder]]
+* [[Drive Recorder|Drive Recorder]]
 * [[Trip States - Future, Active, and Past Expeditions]]

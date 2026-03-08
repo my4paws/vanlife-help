@@ -40,7 +40,7 @@ This is the app's superpower. Vanlife Assistant features a custom, on-device AI 
 ## The "Smart Notebook" Gallery
 Even if you don't create a Check-in for every single photo you take, the app is still working for you. 
 
-The **Trip Detail View** acts as a "Smart Notebook." It continuously scans your iPhone's camera roll in the background, matching the timestamps and locations of your general photos against the GPS breadcrumbs of your [[Trips/Reference/Drive Recorder|Drive Recorder]] and your logged Check-ins. It then seamlessly weaves your photos into your chronological travel timeline, creating a beautiful, unified memory feed of your expedition without you having to manually upload a single image.
+The **Trip Detail View** acts as a "Smart Notebook." It continuously scans your iPhone's camera roll in the background, matching the timestamps and locations of your general photos against the GPS breadcrumbs of your [[Drive Recorder|Drive Recorder]] and your logged Check-ins. It then seamlessly weaves your photos into your chronological travel timeline, creating a beautiful, unified memory feed of your expedition without you having to manually upload a single image.
 
 ## Related Articles
 * [[How to create a Check-in]]

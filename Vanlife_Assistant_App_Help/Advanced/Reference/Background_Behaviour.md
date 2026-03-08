@@ -92,6 +92,6 @@ If you are not recording a drive and not using Spot Mode, the app does not consu
 
 - [[CloudKit_Sync_Behaviour|CloudKit Sync Behaviour]]
 - [[Permission_Changes|Permission Changes]]
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]]
+- [[Permissions Explained|Permissions Explained]]
 - [[Drive_Recorder|The Drive Recorder]]
 - [[Spot_Mode|Spot Mode]]

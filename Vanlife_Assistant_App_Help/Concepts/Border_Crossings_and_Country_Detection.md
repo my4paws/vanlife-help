@@ -92,7 +92,7 @@ Individual GPS border transitions don't appear in the Trips timeline UI — they
 
 ## Related Articles
 
-- [[Schengen Tracking Explained]] — *The 90/180 rule and how the counter works*
-- [[Check-ins — The Engine of the Travel Journal]] — *The primary data source for country history*
-- [[Background Behaviour]] — *How the app tracks location when not in use*
-- [[Offline-First Design]] — *Why transitions are stored locally, not in iCloud*
+- [[Schengen_Tracking_Explained]] — *The 90/180 rule and how the counter works*
+- [[Check-ins_The_Engine_of_the_Travel_Journal]] — *The primary data source for country history*
+- [[Background_Behaviour]] — *How the app tracks location when not in use*
+- [[Offline-First_Design]] — *Why transitions are stored locally, not in iCloud*

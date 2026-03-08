@@ -17,7 +17,7 @@ last_updated: "2026-02-22"
 ## Overview
 While the [[The Trips Dashboard]] focuses on your current expedition, the **Unified History Map** (often called the "All Trips Map") is the master canvas of your entire vanlife story. 
 
-It takes every single [[Trips/Reference/Drive Recorder|Drive Recorder]] mile you have ever tracked, and every [[Trips/Reference/Checkins and Timeline|Check-in]] you have ever saved, and plots them simultaneously on one beautiful, interactive globe. It is the ultimate visual representation of your travels.
+It takes every single [[Drive Recorder|Drive Recorder]] mile you have ever tracked, and every [[Checkins and Timeline|Check-in]] you have ever saved, and plots them simultaneously on one beautiful, interactive globe. It is the ultimate visual representation of your travels.
 
 ## 🎛️ Exploring the Map
 Because plotting years of travel data can get visually overwhelming, the map provides several tools to help you filter the noise and find exactly what you are looking for.
@@ -58,5 +58,5 @@ This is intentional! To prevent your screen from becoming a solid block of icons
 
 ## Related Articles
 * [[The Trips Dashboard]]
-* [[Trips/Reference/Drive Recorder|Drive Recorder]]
-* [[Trips/Reference/The Magic of Check-ins - Automated Journaling|The Magic of Check-ins: Automated Journaling]]
+* [[Drive Recorder|Drive Recorder]]
+* [[The Magic of Check-ins - Automated Journaling|The Magic of Check-ins: Automated Journaling]]

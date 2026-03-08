@@ -93,7 +93,7 @@ When you're done shopping, tap **Checkout (n)** in the trolley. The app asks wha
 
 ### Stowing Items into the Manifest
 
-The Whiteboard and the [[Van/Manifest/Understanding_the_Manifest|Van Manifest]] are connected. When you buy something that lives in your van — a gas canister, a spare bulb, a bag of coffee — you can transfer it directly from the shopping list into your inventory without leaving the Whiteboard.
+The Whiteboard and the [[Understanding_the_Manifest|Van Manifest]] are connected. When you buy something that lives in your van — a gas canister, a spare bulb, a bag of coffee — you can transfer it directly from the shopping list into your inventory without leaving the Whiteboard.
 
 **Swipe right** on any shopping item to reveal the green **Stow** button.
 
@@ -217,5 +217,5 @@ The app looks for a budget category whose name contains "grocer" or "food". If y
 ## Related Articles
 - [[Due Dates and Location Triggers|Due Dates and Location Triggers]]
 - [[Voice Additions|Voice Additions]]
-- [[Van/Manifest/Understanding_the_Manifest]]
+- [[Understanding_the_Manifest]]
 - [[The Magic of Check-ins - Automated Journaling]]

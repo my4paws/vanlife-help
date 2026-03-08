@@ -177,7 +177,7 @@ Check whether Avoid Motorways is toggled on — this forces all-roads routing wh
 Scout only finds spots from datasets that are currently visible in the Dataset Manager. Check that your packs are toggled on. Scout also only looks within the corridor width you selected — try a wider radius if you have a sparse dataset.
 
 **Can I use a Trip Planner draft as an actual Expedition?**
-Waypoints in a Trip Planner draft can be promoted to full Trip Check-ins inside an Expedition. This is covered in the Trips module — see [[Trips/Tutorials/Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]].
+Waypoints in a Trip Planner draft can be promoted to full Trip Check-ins inside an Expedition. This is covered in the Trips module — see [[Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]].
 
 ---
 
@@ -187,4 +187,4 @@ Waypoints in a Trip Planner draft can be promoted to full Trip Check-ins inside 
 - [[Route_Conditions|Route Conditions]]
 - [[Spot_Packs_and_Datasets|Spot Packs & the Dataset Manager]]
 - [[Fuel_Log_and_Economy|Fuel Log and Economy]] *(Source of the fuel cost estimate)*
-- [[Trips/Tutorials/Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]] *(Promoting a draft to a full expedition)*
+- [[Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]] *(Promoting a draft to a full expedition)*

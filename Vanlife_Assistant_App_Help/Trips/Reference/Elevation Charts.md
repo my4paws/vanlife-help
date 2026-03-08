@@ -16,7 +16,7 @@ last_updated: "2026-02-21"
 
 ## Overview
 
-Every mountain pass, coastal cliff road, and alpine descent you drive gets captured by the [[Trips/Reference/Drive Recorder|Drive Recorder]] and stitched together into one of the most satisfying views in the entire app: the **Expedition Profile** chart.
+Every mountain pass, coastal cliff road, and alpine descent you drive gets captured by the [[Drive Recorder|Drive Recorder]] and stitched together into one of the most satisfying views in the entire app: the **Expedition Profile** chart.
 
 Found inside your Trip Detail View, directly above the [[The Compass and Records Card|Compass & Records card]], the Expedition Profile draws a beautiful gradient silhouette of every metre you climbed and descended across your entire expedition—from the very first kilometre to the last.
 
@@ -30,7 +30,7 @@ Most fitness apps plot elevation against _time_. We plot it against _distance_
 
 ### Stitching Multiple Drives Into One Picture
 
-A two-week trip might contain forty separate drive sessions. Rather than showing forty disconnected fragments, the chart engine collects every [[Trips/Reference/Drive Recorder|Drive Log]] that falls within your expedition's date range and stitches them together end-to-end into a single, unbroken elevation profile. The cumulative distance keeps counting upward from the first drive to the last, so the chart reads like one continuous journey.
+A two-week trip might contain forty separate drive sessions. Rather than showing forty disconnected fragments, the chart engine collects every [[Drive Recorder|Drive Log]] that falls within your expedition's date range and stitches them together end-to-end into a single, unbroken elevation profile. The cumulative distance keeps counting upward from the first drive to the last, so the chart reads like one continuous journey.
 
 ### Smart Downsampling
 
@@ -55,11 +55,11 @@ The Y-axis has a sensible default ceiling of **3,500m (11,500ft)** to give you
 
 ## Common Questions
 
-**Why is the chart missing from my trip?** The Expedition Profile only appears when your trip has at least one saved [[Trips/Reference/Drive Recorder|Drive Log]]. If you haven't driven with the Drive Recorder armed, or if all your drives fall outside the trip's date range, the chart will display a _"No Driving Data"_ message instead. The simplest fix is to start using the Drive Recorder on your next drive—your future trips will build up a full profile as you go.
+**Why is the chart missing from my trip?** The Expedition Profile only appears when your trip has at least one saved [[Drive Recorder|Drive Log]]. If you haven't driven with the Drive Recorder armed, or if all your drives fall outside the trip's date range, the chart will display a _"No Driving Data"_ message instead. The simplest fix is to start using the Drive Recorder on your next drive—your future trips will build up a full profile as you go.
 
 **My trip is ongoing—will the chart update as I drive more?** Yes! The chart refreshes every time you open your Trip Detail View. Each new drive you record gets added to the right-hand side of the profile automatically.
 
-**The altitude line looks very flat even though I drove over big mountains.** This can happen if your phone's GPS had poor vertical accuracy during that drive. The [[Trips/Reference/Drive Recorder|Drive Recorder]] applies strict accuracy gates and only saves altitude readings when the phone is confident in its vertical position. If you were driving through a deep valley, a city centre with tall buildings, or had the phone flat on a seat (blocking the sky view), readings may have been sparse. The chart will still draw the best picture it can from the data it captured.
+**The altitude line looks very flat even though I drove over big mountains.** This can happen if your phone's GPS had poor vertical accuracy during that drive. The [[Drive Recorder|Drive Recorder]] applies strict accuracy gates and only saves altitude readings when the phone is confident in its vertical position. If you were driving through a deep valley, a city centre with tall buildings, or had the phone flat on a seat (blocking the sky view), readings may have been sparse. The chart will still draw the best picture it can from the data it captured.
 
 **My chart has a very tall, narrow spike in it.** This is a classic sign of a single noisy GPS reading slipping through. Even with the Drive Recorder's smoothing algorithms, occasional outliers can occur in areas with very poor signal. You can safely ignore these cosmetic blips—they don't affect your Total Ascent statistics.
 
@@ -79,7 +79,7 @@ The engine matches drives to your trip using two criteria: drives **directly as
 
 ## Related Articles
 
-- [[Trips/Reference/Drive Recorder|Drive Recorder]]
-- [[Trips/Reference/Elevation Charts|GPX Import]] _(Imported GPX routes also contribute to your Expedition Profile!)_
-- [[Trips/Reference/Checkins and Timeline|Check-ins and Timeline]]
+- [[Drive Recorder|Drive Recorder]]
+- [[Elevation Charts|GPX Import]] _(Imported GPX routes also contribute to your Expedition Profile!)_
+- [[Checkins and Timeline|Check-ins and Timeline]]
 - [[Trip States - Future, Active, and Past Expeditions]]

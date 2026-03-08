@@ -130,6 +130,6 @@ Rather than hunting through iOS Settings manually, open the app's built-in permi
 
 ## Related Articles
 
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] — Why each permission is needed
+- [[Permissions Explained|Permissions Explained]] — Why each permission is needed
 - [[Background_Behaviour|Background Behaviour]] — How permission changes affect background features
 - [[SmartVan_Setup|Setting Up Smart Van]] — HomeKit requirements

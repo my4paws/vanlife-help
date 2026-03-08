@@ -44,7 +44,7 @@ This database is fully offline capable. You can create check-ins, log expenses, 
 
 Your data belongs to you and lives in your private iCloud container. There are no Vanlife Assistant servers, no accounts, no logins. Anthropic cannot access your data. If you delete the app, your data remains in iCloud and can be restored.
 
-→ See [[CloudKit Sync Behaviour]] for how sync conflicts are handled.
+→ See [[CloudKit_Sync_Behaviour]] for how sync conflicts are handled.
 
 ### GRDB SQLite — The Spots Vault
 
@@ -128,8 +128,8 @@ The things that need a connection are enhancements — a richer background, a fo
 
 ## Related Articles
 
-- [[CloudKit Sync Behaviour]] — *How iCloud sync works and handles conflicts*
-- [[The Spots Vault]] — *The offline location database in detail*
+- [[CloudKit_Sync_Behaviour]] — *How iCloud sync works and handles conflicts*
+- [[The_Spots_Vault]] — *The offline location database in detail*
 - [[Drive Recorder]] — *GPS tracking modes and black box recovery*
-- [[Background Behaviour]] — *What the app does when it's not on screen*
-- [[Data Integrity and Backups]] — *How your data is protected*
+- [[Background_Behaviour]] — *What the app does when it's not on screen*
+- [[Data_Integrity_and_Backups]] — *How your data is protected*

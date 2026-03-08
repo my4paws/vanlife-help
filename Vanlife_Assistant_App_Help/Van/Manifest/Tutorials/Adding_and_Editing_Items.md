@@ -59,14 +59,14 @@ Weight is always stored and displayed in kilograms. The total payload calculatio
 The replacement value of a single unit, in your local currency. Optional, but useful for insurance purposes. The zone detail view shows the total value of everything in a zone; the Gear List shows total value across all templates.
 
 ### Quantity
-How many of this item are in this location. Use the stepper. For items you have multiples of spread across different zones, add them as separate entries — one per zone — rather than one entry with a high quantity. That way "move 2 of 5 to the garage" works correctly via the [[Van/Manifest/Tutorials/The_Loading_Bay|Loading Bay]].
+How many of this item are in this location. Use the stepper. For items you have multiples of spread across different zones, add them as separate entries — one per zone — rather than one entry with a high quantity. That way "move 2 of 5 to the garage" works correctly via the [[The_Loading_Bay|Loading Bay]].
 
 ---
 
 ## Section 2: Classification
 
 ### Zone *(required to appear in inventory)*
-Where this item lives. The zone picker groups zones into Current Van, Offboard, and Other Vehicles. If you leave this unset, the item is saved only to the [[Van/Manifest/Tutorials/The_Gear_List|Gear List]] as a template — it won't appear in any zone's inventory.
+Where this item lives. The zone picker groups zones into Current Van, Offboard, and Other Vehicles. If you leave this unset, the item is saved only to the [[The_Gear_List|Gear List]] as a template — it won't appear in any zone's inventory.
 
 ### Inside Container
 Appears once you've selected a zone, if that zone contains at least one container. Placing an item inside a container means it appears under that container's disclosure group in the zone view, and its weight is included in the container's stack total. Choose **None (Zone Root)** to place the item loose in the zone.
@@ -77,7 +77,7 @@ A free-text note for items placed loose in a zone (hidden when Inside Container 
 As you type, the app suggests places already used by other items in the same zone. Tap a suggestion to apply it instantly. This makes "Top shelf" consistent across 12 items rather than having 12 slightly different spellings.
 
 ### Add to Gear List
-Toggle (visible on new items only). When on, adding this item also creates a matching template in the [[Van/Manifest/Tutorials/The_Gear_List|Gear List]]. The default is on. Turn it off for one-off or consumable items you don't want cluttering the Gear List template library.
+Toggle (visible on new items only). When on, adding this item also creates a matching template in the [[The_Gear_List|Gear List]]. The default is on. Turn it off for one-off or consumable items you don't want cluttering the Gear List template library.
 
 ---
 
@@ -188,9 +188,9 @@ All fields are identical to creating a new item. The **Add to Gear List** toggle
 
 ## Related Articles
 - [[Understanding_the_Manifest|Understanding the Manifest]]
-- [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
+- [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
 - [[Containers_and_QR_Labels|Containers and QR Labels]]
-- [[Van/Manifest/Tutorials/The_Gear_List|The Gear List]]
+- [[The_Gear_List|The Gear List]]
 - [[Inventory_Control_and_Expiry_Dates|Inventory Control and Expiry Dates]]
-- [[Van/Manifest/Tutorials/The_Loading_Bay|The Loading Bay]]
+- [[The_Loading_Bay|The Loading Bay]]
 - [[Stocktaking_with_the_Audit_Tool|Stocktaking with the Audit Tool]]

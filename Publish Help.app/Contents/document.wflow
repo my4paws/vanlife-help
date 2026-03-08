@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>bash "$HOME/Desktop/vanlife-help/publish-help.sh"</string>
+					<string>bash "$HOME/Desktop/vanlife-help/publish-help.sh" 2&gt;&amp;1</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>

@@ -78,5 +78,5 @@ The calculator is only as smart as the data it has. If you took a flight back to
 
 ## Related Articles
 
-- [[Trips/Reference/Border Crossing Detection|Border Crossing Detection]]
+- [[Border Crossing Detection|Border Crossing Detection]]
 - [[The Trips Dashboard]]

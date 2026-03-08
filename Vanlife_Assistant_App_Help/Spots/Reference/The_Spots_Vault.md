@@ -154,7 +154,7 @@ The Vault applies a dynamic display limit (up to ~500 spots at close zoom, fewer
 If you just saved it and the map hasn't refreshed yet, pan slightly or wait — the Vault listens for a `spotSaved` notification and re-queries immediately after a save. If it still isn't appearing, check that the My Places pack is visible in the Dataset Manager.
 
 **Can I import someone else's list of spots?**
-Yes. Export any spreadsheet of locations as a CSV with at least latitude and longitude columns, then use the Dataset Manager → Import to bring it in. See [[Spots/Reference/Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]].
+Yes. Export any spreadsheet of locations as a CSV with at least latitude and longitude columns, then use the Dataset Manager → Import to bring it in. See [[Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]].
 
 ---
 

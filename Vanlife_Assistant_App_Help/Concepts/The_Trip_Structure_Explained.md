@@ -47,7 +47,7 @@ Trips are:
 
 A trip doesn't close automatically. It stays **active** until you mark it complete. You can have multiple trips in your history and one active at a time.
 
-→ See [[Trip States: Future, Active, and Past Expeditions]]
+→ See [[Trip States - Future, Active, and Past Expeditions]]
 
 ---
 
@@ -87,7 +87,7 @@ Each check-in belongs to a trip and stores:
 
 Check-ins are what the rest of the app reads. Your Schengen counter reads their country codes. The Visited Countries map reads them. The All-Time Records card (hottest, coldest, highest, furthest) reads them. The Postcard Generator builds its postcards from them. Voice queries about "where did I sleep in France?" search them.
 
-→ See [[Check-ins — The Engine of the Travel Journal]]
+→ See [[Check-ins_The_Engine_of_the_Travel_Journal]]
 
 ---
 
@@ -125,7 +125,7 @@ Alongside your travel history, the Trips system includes a **Trip Planner** — 
 
 When you execute a planned route, driving to your waypoints and checking in at stops, those check-ins and drives flow into the active recorded trip as normal. The planner is a tool for preparation; the actual history is what matters for statistics.
 
-→ See [[The Trip Planner & Route Builder]]
+→ See [[Trip_Planner_and_Route_Builder|The Trip Planner & Route Builder]]
 
 ---
 
@@ -154,8 +154,8 @@ When you execute a planned route, driving to your waypoints and checking in at s
 
 ## Related Articles
 
-- [[Check-ins — The Engine of the Travel Journal]] — *The concept behind check-ins*
-- [[Spots vs Check-ins — What's the Difference?]] — *Spots are potential; check-ins are history*
+- [[Check-ins_The_Engine_of_the_Travel_Journal]] — *The concept behind check-ins*
+- [[Spots_vs_Check-ins_Whats_the_Difference]] — *Spots are potential; check-ins are history*
 - [[Creating a Trip (Expeditions)]] — *How to start a new trip*
 - [[How to create a Check-in]] — *Logging a stop*
 - [[The Trips Dashboard]] — *What you see on the Trips home screen*

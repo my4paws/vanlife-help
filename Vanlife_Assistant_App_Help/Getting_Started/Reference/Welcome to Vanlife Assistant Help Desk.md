@@ -25,28 +25,28 @@ Use the search bar above to find any topic instantly, or browse by section below
 New to Vanlife Assistant, or trying to understand why something works the way it does? Start here. Concept articles explain the mental models behind the app — not step-by-step instructions, but the ideas that make everything else click.
 
 ### The App Itself
-- [[How Vanlife Assistant Works]] — the big picture: all the systems, how they connect, and why
-- [[Offline-First Design]] — why the app is built for mountains, forests, and no signal
+- [[How_Vanlife_Assistant_Works]] — the big picture: all the systems, how they connect, and why
+- [[Offline-First_Design]] — why the app is built for mountains, forests, and no signal
 
 ### Travel & Places
-- [[The Trip Structure Explained]] — how expeditions, drives, and check-ins fit together
-- [[Check-ins — The Engine of the Travel Journal]] — why check-ins are central to the whole app
-- [[Spots vs Check-ins — What's the Difference?]] — the most common confusion point, cleared up
-- [[Drives, Navigation and Route Planning — What's the Difference?]] — three map-related things that do very different jobs
-- [[Schengen Tracking Explained]] — the 90/180 rolling window, what it actually means, and how the app calculates it
-- [[Border Crossings and Country Detection]] — how GPS border transitions are recorded automatically
+- [[The_Trip_Structure_Explained]] — how expeditions, drives, and check-ins fit together
+- [[Check-ins_The_Engine_of_the_Travel_Journal]] — why check-ins are central to the whole app
+- [[Spots_vs_Check-ins_Whats_the_Difference]] — the most common confusion point, cleared up
+- [[Drives_Navigation_and_Route_Planning|Drives, Navigation and Route Planning — What's the Difference?]] — three map-related things that do very different jobs
+- [[Schengen_Tracking_Explained]] — the 90/180 rolling window, what it actually means, and how the app calculates it
+- [[Border_Crossings_and_Country_Detection]] — how GPS border transitions are recorded automatically
 
 ### Gear & Van
-- [[The Manifest System — How Gear Is Organised]] — the Zone → Container → Item hierarchy
-- [[Vehicles, Crew and Trips]] — how vans scope your data, why switching vans changes everything, and how crew affects payload and Schengen
-- [[The Dynamic Background]] — how the background scene, moon phase, and sky animations are chosen in real time
+- [[The_Manifest_System_How_Gear_Is_Organised]] — the Zone → Container → Item hierarchy
+- [[Vehicles_Crew_and_Trips]] — how vans scope your data, why switching vans changes everything, and how crew affects payload and Schengen
+- [[The_Dynamic_Background]] — how the background scene, moon phase, and sky animations are chosen in real time
 
 ### Money & Planning
-- [[The Ledger — How Spending Is Recorded]] — transactions, categories, vendors, and accounts explained
-- [[Scenarios and Financial Forecasting]] — budget plans, runway simulation, inflation compounding, and What-If Events
+- [[The_Ledger_How_Spending_Is_Recorded]] — transactions, categories, vendors, and accounts explained
+- [[Scenarios_and_Financial_Forecasting]] — budget plans, runway simulation, inflation compounding, and What-If Events
 
 ### Voice Assistant
-- [[How the Voice Assistant Works]] — context, multi-turn conversations, and what the assistant can actually see
+- [[How_the_Voice_Assistant_Works]] — context, multi-turn conversations, and what the assistant can actually see
 
 ---
 
@@ -116,19 +116,19 @@ CloudKit sync, background behaviour, permissions, and data integrity.
 ## ❓ Common Questions
 
 - **How do I get started?** → [[Onboarding Guide]]
-- **What does the app actually do?** → [[How Vanlife Assistant Works]]
-- **What's the difference between a Spot and a check-in?** → [[Spots vs Check-ins — What's the Difference?]]
-- **How does the Schengen counter actually work?** → [[Schengen Tracking Explained]]
-- **Why did my van data change when I switched vans?** → [[Vehicles, Crew and Trips]]
-- **How does the financial forecasting work?** → [[Scenarios and Financial Forecasting]]
-- **Does the app work without a signal?** → [[Offline-First Design]]
-- **How do I plan a route to a campsite?** → [[Spots/Reference/Planning_Your_First_Route|Planning Your First Route]]
-- **How do I import a spot dataset?** → [[Spots/Reference/Importing_a_CSV_Dataset|Importing a CSV Dataset]]
+- **What does the app actually do?** → [[How_Vanlife_Assistant_Works]]
+- **What's the difference between a Spot and a check-in?** → [[Spots_vs_Check-ins_Whats_the_Difference]]
+- **How does the Schengen counter actually work?** → [[Schengen_Tracking_Explained]]
+- **Why did my van data change when I switched vans?** → [[Vehicles_Crew_and_Trips]]
+- **How does the financial forecasting work?** → [[Scenarios_and_Financial_Forecasting]]
+- **Does the app work without a signal?** → [[Offline-First_Design]]
+- **How do I plan a route to a campsite?** → [[Planning_Your_First_Route|Planning Your First Route]]
+- **How do I import a spot dataset?** → [[Importing_a_CSV_Dataset|Importing a CSV Dataset]]
 - **How do I set up HomeKit automations?** → [[Van_Brain|The Van Brain]]
 - **What does each permission actually do?** → [[Permissions Explained]]
 - **How do I move the app to a new phone?** → [[Sync and Backups]]
-- **Why is my data not syncing to my other device?** → [[Advanced/Reference/CloudKit_Sync_Behaviour|CloudKit Sync Behaviour]]
-- **How does the voice assistant work?** → [[How the Voice Assistant Works]]
+- **Why is my data not syncing to my other device?** → [[CloudKit_Sync_Behaviour|CloudKit Sync Behaviour]]
+- **How does the voice assistant work?** → [[How_the_Voice_Assistant_Works]]
 - **Something looks wrong with my data** → [[Data Management and Database Cleanup]]
 
 ---
@@ -137,11 +137,11 @@ CloudKit sync, background behaviour, permissions, and data integrity.
 
 For when you want to understand exactly how something works under the hood.
 
-- [[Schengen Tracking Explained]] — the rolling 180-day window, the three data sources, and how the calculator handles gaps
-- [[Scenarios and Financial Forecasting]] — how the runway engine, inflation compounding, and What-If Events work
-- [[Border Crossings and Country Detection]] — GPS stabilisation, the transition store, and how borders feed the Schengen window
-- [[Advanced/Reference/CloudKit_Sync_Behaviour|CloudKit Sync Behaviour]] — what syncs, when, and what can interrupt it
-- [[Advanced/Reference/Background_Behaviour|Background Behaviour]] — what runs when the app isn't in the foreground
-- [[Trips/Weather/Deep Dive/How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]] — weather triggers in the Van Brain
+- [[Schengen_Tracking_Explained]] — the rolling 180-day window, the three data sources, and how the calculator handles gaps
+- [[Scenarios_and_Financial_Forecasting]] — how the runway engine, inflation compounding, and What-If Events work
+- [[Border_Crossings_and_Country_Detection]] — GPS stabilisation, the transition store, and how borders feed the Schengen window
+- [[CloudKit_Sync_Behaviour|CloudKit Sync Behaviour]] — what syncs, when, and what can interrupt it
+- [[Background_Behaviour|Background Behaviour]] — what runs when the app isn't in the foreground
+- [[How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]] — weather triggers in the Van Brain
 - [[Understanding the Payload Heatmap]] — how weight distribution is calculated and visualised
 - [[What is Border Mode and how do I use it?]] — the secure document display system

@@ -20,7 +20,7 @@ last\_updated: "2026-02-22"
 # 🗺️ Trip Detail View
 
 ## Overview
-Tap into any expedition in your [[Trips/Tutorials/Creating a Trip (Expeditions)|Trip Manager]] and you land in the **Trip Detail View** — the richest screen in the entire app. It's part interactive map, part living journal, part financial ledger, and part photo album, all woven together into a single scrollable view that tells the full story of one specific chapter of your vanlife.
+Tap into any expedition in your [[Creating a Trip (Expeditions)|Trip Manager]] and you land in the **Trip Detail View** — the richest screen in the entire app. It's part interactive map, part living journal, part financial ledger, and part photo album, all woven together into a single scrollable view that tells the full story of one specific chapter of your vanlife.
 
 Everything here is scoped entirely to the expedition you're viewing. Statistics, check-ins, driving data, spending, and photos are all filtered to this trip alone.
 
@@ -43,10 +43,10 @@ The header is **elastic**: pull down from the top and the map stretches to fill 
 Directly below the map sits the expedition's identity card, containing:
 
 * **Trip name and date range** — exactly as you set them in the expedition editor.
-* **Country count** — the total number of countries visited, updated live as you add check-ins and the [[Trips/Reference/Border Crossing Detection|Border Crossing Detection]] engine logs transitions.
+* **Country count** — the total number of countries visited, updated live as you add check-ins and the [[Border Crossing Detection|Border Crossing Detection]] engine logs transitions.
 * **Flag ribbon** — a flowing row of flag emoji for every country you visited, in the order they were detected.
-* **📷 Photo button** — opens the [[Trips/Reference/Trip Detail View#Smart Notebook (Photo Gallery)|Smart Notebook]] to browse every photo taken during the trip.
-* **Spending button & total** — tapping "Spending" opens the full [[Trips/Reference/Trip Detail View#The Spending Sheet|Spending Sheet]]; the running total is always visible at a glance on the right.
+* **📷 Photo button** — opens the [[Trip Detail View#Smart Notebook (Photo Gallery)|Smart Notebook]] to browse every photo taken during the trip.
+* **Spending button & total** — tapping "Spending" opens the full [[Trip Detail View#The Spending Sheet|Spending Sheet]]; the running total is always visible at a glance on the right.
 
 ---
 
@@ -62,16 +62,16 @@ Four tiles arranged in a 2×2 grid:
 | **Days**      | Total calendar days from start date to end date (or today, if ongoing) |
 | **Stops**     | Total number of distinct stopping points                               |
 | **Countries** | Countries visited, as detected by the border crossing engine           |
-| **Check-ins** | Total [[Trips/Reference/Checkins and Timeline|Check-ins]] saved to this expedition   |
+| **Check-ins** | Total [[Checkins and Timeline|Check-ins]] saved to this expedition   |
 
 ### Expedition Driving
-If you used the [[Trips/Reference/Drive Recorder|Drive Recorder]] during this trip, three driving stats appear below the grid:
+If you used the [[Drive Recorder|Drive Recorder]] during this trip, three driving stats appear below the grid:
 
 * 🚐 **Distance** — total kilometres or miles driven (respects your unit setting).
 * ↗ **Ascent** — total elevation gained across all drives.
 * ↘ **Descent** — total elevation lost across all drives.
 
-Beneath these, the full **[[Trips/Reference/Elevation Charts|Expedition Profile]]** chart renders — the continuous elevation-over-distance silhouette stitched together from every drive.
+Beneath these, the full **[[Elevation Charts|Expedition Profile]]** chart renders — the continuous elevation-over-distance silhouette stitched together from every drive.
 
 ---
 
@@ -80,14 +80,14 @@ Beneath these, the full **[[Trips/Reference/Elevation Charts|Expedition Profile]
 The heart of the view. The **Travel Feed** is a chronological timeline of everything that happened on your trip, rendered as a vertical scroll of large, photo-first cards connected by a slim timeline line.
 
 ### Check-in Cards
-Each [[Trips/Reference/Checkins and Timeline|Check-in]] appears as a bold card showing:
+Each [[Checkins and Timeline|Check-in]] appears as a bold card showing:
 * **Hero photo** — full-width image, filling a square frame.
 * **Place type icon and name** — overlaid on the image in the bottom-left corner.
 * **Location name** — shown beneath the place name.
 * **Star rating** — shown as a pill in the bottom-right corner of the photo, if rated.
 * **Journal notes** — if you wrote notes, they appear directly below the photo in a clean text block.
 
-Tap any card to open the full [[Trips/Reference/Check-in Detail View|Check-in Detail View]]. Long-press for a context menu with **Edit** and **Delete** options.
+Tap any card to open the full [[Check-in Detail View|Check-in Detail View]]. Long-press for a context menu with **Edit** and **Delete** options.
 
 ### Drive Connectors
 Between check-in cards, slim connector capsules appear on the timeline whenever a drive was recorded between two stops. These show:
@@ -121,13 +121,13 @@ Tapping any photo opens a **full-screen viewer** where you can:
 
 For active and past trips, a floating **⊕ button** sits in the bottom-right corner of the screen at all times. Tap it to launch the [[How to create a Check-in|Check-in Creation Wizard]] and add a new stop to this expedition without having to navigate back to the Dashboard. It's your quick-add shortcut, always within thumb's reach.
 
-> The floating button is intentionally hidden for **upcoming** trips — instead, the detail view shows the [[Trips/Tutorials/Creating a Trip (Expeditions)|Expedition Wizard]] planning view for future trips.
+> The floating button is intentionally hidden for **upcoming** trips — instead, the detail view shows the [[Creating a Trip (Expeditions)|Expedition Wizard]] planning view for future trips.
 
 ---
 
 ## The Spending Sheet
 
-Tap **Spending** in the Trip Header Card to open a dedicated financial summary for the expedition. This sheet pulls all transactions from your [[Money/Reference/Adding Transactions|Money Ledger]] whose dates fall within the trip's date range.
+Tap **Spending** in the Trip Header Card to open a dedicated financial summary for the expedition. This sheet pulls all transactions from your [[Adding Transactions|Money Ledger]] whose dates fall within the trip's date range.
 
 At the top, a **summary header** shows:
 * Total **income** recorded during the trip.
@@ -155,11 +155,11 @@ Check-ins must be linked to this specific expedition to appear in its feed. If y
 ---
 
 ## Related Articles
-* [[Trips/Tutorials/Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]]
-* [[Trips/Reference/Checkins and Timeline|Check-ins and Timeline]]
+* [[Creating a Trip (Expeditions)|Creating a Trip (Expeditions)]]
+* [[Checkins and Timeline|Check-ins and Timeline]]
 * [[The Magic of Check-ins - Automated Journaling]]
-* [[Trips/Reference/Check-in Detail View|Check-in Detail View]]
-* [[Trips/Reference/Elevation Charts|Elevation Charts (Expedition Profile)]]
+* [[Check-in Detail View|Check-in Detail View]]
+* [[Elevation Charts|Elevation Charts (Expedition Profile)]]
 * [[The Compass and Records Card]]
-* [[Trips/Reference/Drive Recorder|Drive Recorder]]
-* [[Trips/Reference/Border Crossing Detection|Border Crossing Detection]]
+* [[Drive Recorder|Drive Recorder]]
+* [[Border Crossing Detection|Border Crossing Detection]]

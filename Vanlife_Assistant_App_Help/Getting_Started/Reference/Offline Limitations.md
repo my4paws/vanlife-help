@@ -45,12 +45,12 @@ A few features rely on live services or online sources.
 ### Weather
 
 Forecasts need internet to refresh with current conditions.  
-See **[[Weather Index]]**.
+See **[[Trips/Weather/Index]]**.
 
 ### Spot and data downloads
 
 If you are importing or downloading larger location datasets, you may need internet at the point of download.  
-See **[[Spots Index]]**.
+See **[[Spots/Index]]**.
 
 ### Syncing between devices
 
@@ -72,7 +72,7 @@ The app is intentionally designed so you can still:
 
 ...even when you are fully off-grid.
 
-To see how that helps with travel logging, read **[[The Magic of Check-ins: Automated Journaling]]**.
+To see how that helps with travel logging, read **[[The Magic of Check-ins - Automated Journaling]]**.
 
 ---
 
@@ -81,6 +81,6 @@ To see how that helps with travel logging, read **[[The Magic of Check-ins: Auto
 - [[Welcome to Vanlife Assistant]]
 - [[Onboarding Guide]]
 - [[Sync and Backups]]
-- [[Weather Index]]
-- [[Spots Index]]
-- [[The Magic of Check-ins: Automated Journaling]]
+- [[Trips/Weather/Index]]
+- [[Spots/Index]]
+- [[The Magic of Check-ins - Automated Journaling]]

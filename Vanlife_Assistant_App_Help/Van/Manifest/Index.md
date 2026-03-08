@@ -25,7 +25,7 @@ The Manifest is your van's complete inventory system — tracking every piece of
 
 ## ⚙️ Setup
 
-- 👉 **[[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]** — *Create onboard and offboard zones, paint them onto your van's floor plan, and set up geofence locations for offboard storage.*
+- 👉 **[[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]** — *Create onboard and offboard zones, paint them onto your van's floor plan, and set up geofence locations for offboard storage.*
 
 ---
 
@@ -38,14 +38,14 @@ The Manifest is your van's complete inventory system — tracking every piece of
 
 ## ⚖️ Weight & Payload
 
-- 👉 **[[Van/Manifest/Tutorials/Payload_and_Weight_Management|Payload and Weight Management]]** — *How the payload calculation works, what the colour ring means, and how to read the weight distribution heatmap.*
+- 👉 **[[Payload_and_Weight_Management|Payload and Weight Management]]** — *How the payload calculation works, what the colour ring means, and how to read the weight distribution heatmap.*
 
 ---
 
 ## 🎒 Gear & Movement
 
-- 👉 **[[Van/Manifest/Tutorials/The_Gear_List|The Gear List]]** — *Your master catalogue of gear, independent of where it's currently stored. Used for trip kit planning and voice readiness queries.*
-- 👉 **[[Van/Manifest/Tutorials/The_Loading_Bay|The Loading Bay]]** — *Move gear between zones and vehicles in bulk — load the van, unload to storage, or reorganise across your fleet.*
+- 👉 **[[The_Gear_List|The Gear List]]** — *Your master catalogue of gear, independent of where it's currently stored. Used for trip kit planning and voice readiness queries.*
+- 👉 **[[The_Loading_Bay|The Loading Bay]]** — *Move gear between zones and vehicles in bulk — load the van, unload to storage, or reorganise across your fleet.*
 
 ---
 
@@ -57,5 +57,5 @@ The Manifest is your van's complete inventory system — tracking every piece of
 ---
 
 ## Related Features
-- [[Whiteboard/Reference/Using the Whiteboard|Using the Whiteboard]] *(Low-stock alerts add items here)*
-- [[Whiteboard/Reference/Due Dates and Location Triggers|Due Dates and Location Triggers]] *(Offboard zones can trigger arrival reminders)*
+- [[Using the Whiteboard|Using the Whiteboard]] *(Low-stock alerts add items here)*
+- [[Due Dates and Location Triggers|Due Dates and Location Triggers]] *(Offboard zones can trigger arrival reminders)*

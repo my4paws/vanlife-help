@@ -125,11 +125,11 @@ Check that all your items have weights set. Items with weight 0 are invisible to
 The Manifest tracks what you tell it. If you've set conservative weights, your actual load may be under the limit. If you've been precise with weights, consider what you can remove or move to offboard storage.
 
 **The heatmap shows weight in an unexpected area.**
-Check the grid painting on your zones in the Zone Editor. If a zone is painted in the wrong area of the floor plan, its items' weight will appear in the wrong location on the heatmap. See [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]].
+Check the grid painting on your zones in the Zone Editor. If a zone is painted in the wrong area of the floor plan, its items' weight will appear in the wrong location on the heatmap. See [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]].
 
 ---
 
 ## Related Articles
 - [[Understanding_the_Manifest|Understanding the Manifest]]
-- [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
+- [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
 - [[Adding_and_Editing_Items|Adding and Editing Items]]

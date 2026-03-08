@@ -62,11 +62,11 @@ Open the Database Cleanup sheet via the Data Management row in Settings. Each is
 
 While iCloud handles automatic backup, you can export specific data types as portable files for your own records or to use in other apps:
 
-**Money ledger (CSV):** Export your full transaction history or a filtered month as a CSV file compatible with Excel, Numbers, or any spreadsheet app. Access this from the Money section. See [[Money/Reference/Exporting Your Data (CSV)|Exporting Your Data (CSV)]] for full instructions.
+**Money ledger (CSV):** Export your full transaction history or a filtered month as a CSV file compatible with Excel, Numbers, or any spreadsheet app. Access this from the Money section. See [[Exporting Your Data (CSV)|Exporting Your Data (CSV)]] for full instructions.
 
-**Drive routes (GPX):** Individual drives can be exported as GPX files from the Drive History screen. GPX files can be imported into mapping apps, route planners, or shared with others. See [[Trips/Reference/GPX Import|GPX Import]] for details.
+**Drive routes (GPX):** Individual drives can be exported as GPX files from the Drive History screen. GPX files can be imported into mapping apps, route planners, or shared with others. See [[GPX Import|GPX Import]] for details.
 
-**Spots dataset (CSV import/export):** Spot packs can be imported from CSV — see [[Spots/Reference/Importing_a_CSV_Dataset|Importing a CSV Dataset]] for format details. Custom My Places can be backed up by exporting as CSV from the Dataset Manager.
+**Spots dataset (CSV import/export):** Spot packs can be imported from CSV — see [[Importing_a_CSV_Dataset|Importing a CSV Dataset]] for format details. Custom My Places can be backed up by exporting as CSV from the Dataset Manager.
 
 ---
 
@@ -95,5 +95,5 @@ Below the factory reset option, a separate **Wipe Spot Vault** action deletes al
 
 - [[CloudKit_Sync_Behaviour|CloudKit Sync Behaviour]] — How iCloud sync works in detail
 - [[Background_Behaviour|Background Behaviour]] — What background processes run and when they can be interrupted
-- [[Settings/Reference/Data Management and Database Cleanup|Data Management and Database Cleanup]] — Step-by-step guide to the Settings cleanup tools
-- [[Money/Reference/Exporting Your Data (CSV)|Exporting Your Data (CSV)]]
+- [[Data Management and Database Cleanup|Data Management and Database Cleanup]] — Step-by-step guide to the Settings cleanup tools
+- [[Exporting Your Data (CSV)|Exporting Your Data (CSV)]]

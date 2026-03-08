@@ -75,7 +75,7 @@ Vanlife Assistant's data is compact. The full app database for a heavy user (yea
 
 ## Related Articles
 
-- [[Getting_Started/Reference/Sync and Backups|Sync and Backups]] — User-facing overview of offline-first design and iCloud sync
+- [[Sync and Backups|Sync and Backups]] — User-facing overview of offline-first design and iCloud sync
 - [[Background_Behaviour|Background Behaviour]] — How the app behaves when it's not in the foreground
 - [[Data_Integrity_and_Backups|Data Integrity and Backups]] — Database health checks, factory reset, and manual data export
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] — iCloud permission requirements
+- [[Permissions Explained|Permissions Explained]] — iCloud permission requirements

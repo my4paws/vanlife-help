@@ -106,7 +106,7 @@ If you delete the active vehicle, the app automatically selects another vehicle 
 
 Each vehicle has its own set of Manifest zones. When you switch the active vehicle, the Manifest home screen updates to show that vehicle's onboard zones. Items in offboard zones (storage units, etc.) are shared context and visible regardless of which vehicle is active.
 
-You can move items between zones on different vehicles using the [[Van/Manifest/Tutorials/The_Loading_Bay|Loading Bay]] — including loading gear from one van's zones into another.
+You can move items between zones on different vehicles using the [[The_Loading_Bay|Loading Bay]] — including loading gear from one van's zones into another.
 
 ---
 
@@ -114,4 +114,4 @@ You can move items between zones on different vehicles using the [[Van/Manifest/
 - [[Van_Profile_and_Setup|Setting Up Your Van Profile]]
 - [[Compliance_and_Legal_Dates|Compliance and Legal Dates]]
 - [[Understanding_the_Manifest|Understanding the Manifest]]
-- [[Van/Manifest/Tutorials/The_Loading_Bay|The Loading Bay]]
+- [[The_Loading_Bay|The Loading Bay]]

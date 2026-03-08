@@ -143,4 +143,4 @@ You now know how to build a complete vanlife route from scratch. As you use the 
 - [[Trip_Planner_and_Route_Builder|The Trip Planner & Route Builder]] *(Full reference)*
 - [[The_Spots_Vault|The Spots Vault]] *(Browsing and filtering spots)*
 - [[Route_Conditions|Route Conditions]] *(Weather and solar detail)*
-- [[Spots/Reference/Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]] *(Build up your Vault)*
+- [[Importing_a_CSV_Dataset|Tutorial: Importing a CSV Dataset]] *(Build up your Vault)*

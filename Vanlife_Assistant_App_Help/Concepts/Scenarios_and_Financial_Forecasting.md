@@ -139,8 +139,8 @@ What it is: a rigorous, honest simulation of your personal cashflow, running in 
 
 ## Related Articles
 
-- [[The Ledger — How Spending Is Recorded]] — *The transaction data that feeds the actual scenario*
-- [[Creating and Managing Scenarios]] — *Setting up budget plans*
-- [[The Runway Chart]] — *Reading the projection view*
-- [[What-If Events and Milestones]] — *Adding specific future events*
-- [[Plan vs Actual]] — *Comparing your budget against real spending*
+- [[The_Ledger_How_Spending_Is_Recorded]] — *The transaction data that feeds the actual scenario*
+- [[Understanding Financial Scenarios|Creating and Managing Scenarios]] — *Setting up budget plans*
+- [[The Math Behind Scenario Trajectories|The Runway Chart]] — *Reading the projection view*
+- [[Milestones - Goals and Predicted Landmarks|What-If Events and Milestones]] — *Adding specific future events*
+- [[Understanding Financial Scenarios|Plan vs Actual]] — *Comparing your budget against real spending*

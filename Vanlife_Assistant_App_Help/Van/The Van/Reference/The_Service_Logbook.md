@@ -129,4 +129,4 @@ Tap the **share icon** (square with arrow) in the toolbar to generate a service 
 ## Related Articles
 - [[The_Maintenance_Schedule|The Maintenance Schedule]]
 - [[Van_Profile_and_Setup|Setting Up Your Van Profile]]
-- [[Van/Glovebox/Glovebox Index|The Glovebox]]
+- [[Glovebox Index|The Glovebox]]

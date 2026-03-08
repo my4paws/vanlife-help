@@ -79,7 +79,7 @@ Speak the name of a saved offboard zone anywhere in the sentence. The assistant 
 
 The zone name must exactly match a saved offboard zone in your Manifest (case-insensitive). If you say "the supermarket" but your zone is called "Lidl", no location trigger is set. Keep zone names short and natural — the way you'd say them out loud.
 
-See [[Whiteboard/Reference/Due Dates and Location Triggers|Due Dates and Location Triggers]] for how location triggers work and how to set up zones.
+See [[Due Dates and Location Triggers|Due Dates and Location Triggers]] for how location triggers work and how to set up zones.
 
 ### Combining Time and Location
 
@@ -177,4 +177,4 @@ Check that a list of the right type exists. The assistant looks for the first li
 ## Related Articles
 - [[Using the Whiteboard|Using the Whiteboard]]
 - [[Due Dates and Location Triggers|Due Dates and Location Triggers]]
-- [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting up your Van's Zones]]
+- [[Setting_Up_Your_Vans_Zones|Setting up your Van's Zones]]

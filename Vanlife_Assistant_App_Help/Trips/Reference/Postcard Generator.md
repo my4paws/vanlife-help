@@ -19,7 +19,7 @@ last\_updated: "2026-02-22"
 # 📮 Postcard Generator
 
 ## Overview
-Every great parkup deserves more than a raw phone photo. The **Postcard Generator** transforms any [[Trips/Reference/Checkins and Timeline|Check-in's]] hero photograph into a beautifully designed, shareable postcard — automatically layered with the location name, date, GPS coordinates, altitude, and weather conditions captured at the time.
+Every great parkup deserves more than a raw phone photo. The **Postcard Generator** transforms any [[Checkins and Timeline|Check-in's]] hero photograph into a beautifully designed, shareable postcard — automatically layered with the location name, date, GPS coordinates, altitude, and weather conditions captured at the time.
 
 Three distinct visual styles give you a different aesthetic for different moods. The result is a high-resolution 3:4 image you can send directly to friends, post on Instagram, or drop into a message — a proper memory, not just a snapshot.
 
@@ -27,7 +27,7 @@ Three distinct visual styles give you a different aesthetic for different moods.
 
 ## How to Open It
 
-The Postcard Generator lives inside the **[[Trips/Reference/Check-in Detail View|Check-in Detail View]]**.
+The Postcard Generator lives inside the **[[Check-in Detail View|Check-in Detail View]]**.
 
 1. Open any expedition from the [[Trip Detail View|Trip Detail View]].
 2. Tap a check-in card in the Travel Feed to open its detail page.
@@ -83,7 +83,7 @@ All data is pulled directly from the check-in record at the moment the generator
 | **Date**                | Check-in date, formatted as abbreviated text (e.g., "22 Feb 2026")                                                     |
 | **GPS Coordinates**     | Check-in latitude and longitude, to 4 decimal places                                                                   |
 | **Altitude**            | GPS altitude recorded at check-in time, converted to your unit preference                                              |
-| **Weather temperature** | Weather snapshot attached by the [[The Magic of Check-ins - Automated Journaling\\|Vision AI wizard]] at creation time |
+| **Weather temperature** | Weather snapshot attached by the [[The Magic of Check-ins - Automated Journaling|Vision AI wizard]] at creation time |
 | **Weather icon**        | Condition symbol from the weather snapshot (sun, cloud, rain, snow, etc.)                                              |
 
 Altitude and weather only appear if that data exists on the check-in. If you logged a spot manually without a weather snapshot, those fields are simply omitted — the postcard still looks complete.
@@ -121,7 +121,7 @@ Not from within the Postcard Generator itself — but you can tap **Close**, edi
 ---
 
 ## Related Articles
-* [[Trips/Reference/Check-in Detail View|Check-in Detail View]]
+* [[Check-in Detail View|Check-in Detail View]]
 * [[The Magic of Check-ins - Automated Journaling]]
-* [[Trips/Reference/Checkins and Timeline|Check-ins and Timeline]]
+* [[Checkins and Timeline|Check-ins and Timeline]]
 * [[Trip Detail View]]

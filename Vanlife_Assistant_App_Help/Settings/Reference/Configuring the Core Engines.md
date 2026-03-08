@@ -28,15 +28,15 @@ This menu controls how the app tracks your physical journey.
 The Money engine is incredibly powerful, and this menu acts as its structural foundation.
 * **Structure:** Access the dedicated managers for your **Categories**, **Category Groups**, and **Milestones**. 👉 *See [[Category - Group Management]] and [[Milestones - Goals and Predicted Landmarks]].*
 * **Forecasting Engine (Assumptions):** This is where you configure the mathematical variables that power your 10-Year Runway chart. You can set your **Home Currency**, estimate global **Inflation**, set your savings **Interest Rate**, and define your **Starting Nest Egg** (your initial capital before travel). 👉 *See [[Understanding Financial Scenarios]].*
-* **Data & Maintenance:** Use this section to bulk **Import Bank CSVs**, **Export your Ledger** to a spreadsheet with a specific date range, or run the **Duplicate Scanner** to clean up messy transactions. 👉 *See [[Money/Reference/Importing Your History - The CSV Wizard|Importing Your History - The CSV Wizard]] and [[Exporting Your Data (CSV)]].*
+* **Data & Maintenance:** Use this section to bulk **Import Bank CSVs**, **Export your Ledger** to a spreadsheet with a specific date range, or run the **Duplicate Scanner** to clean up messy transactions. 👉 *See [[Importing Your History - The CSV Wizard|Importing Your History - The CSV Wizard]] and [[Exporting Your Data (CSV)]].*
 
 ## ⚡ Smart Van Settings
 If you have built out a smart van using Apple HomeKit (e.g., smart lights, temperature sensors, or relays), you can integrate it here.
-* **Enable Smart Van:** Toggling this on gives Vanlife Assistant permission to connect to your local HomeKit devices and use background location services for geofence automation (like automatically turning on your porch lights when you arrive at camp). 👉 *See [[Trips/Weather/Deep Dive/How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts work with SmartVan]].*
+* **Enable Smart Van:** Toggling this on gives Vanlife Assistant permission to connect to your local HomeKit devices and use background location services for geofence automation (like automatically turning on your porch lights when you arrive at camp). 👉 *See [[How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts work with SmartVan]].*
 * *Note: If you do not use HomeKit, leave this toggled OFF to save battery life and hide the feature from view. (No point looking at a feature you're not using right?)*
 
 ## 🎙️ Voice Assistant Settings
 Make your digital co-pilot sound exactly how you want.
 * **Assistant Voice:** Browse and select from all the available Siri and system voices installed on your device. The app filters for English voices by default.
 * **Speech Rate:** If the assistant speaks too quickly or slowly, use the slider to adjust its speed.
-* Tap **Test Voice** to hear exactly how your assistant will sound the next time you ask it to log an expense or check the manifest! 👉 *See [[Voice Assistant/Reference/Voice_Overview|What The Assistant Can Do]].*
+* Tap **Test Voice** to hear exactly how your assistant will sound the next time you ask it to log an expense or check the manifest! 👉 *See [[Voice_Overview|What The Assistant Can Do]].*

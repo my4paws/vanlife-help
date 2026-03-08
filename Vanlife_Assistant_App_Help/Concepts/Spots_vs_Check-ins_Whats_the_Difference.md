@@ -51,7 +51,7 @@ Spots live entirely on your device — they are never uploaded to iCloud. If you
 
 A Spot on its own has no meaning in your travel history. The Schengen counter ignores it. The Visited Countries card ignores it. The All-Time Records don't know it exists. It's purely reference information for planning and scouting.
 
-→ See [[The Spots Vault]]
+→ See [[The_Spots_Vault]]
 
 ---
 
@@ -63,7 +63,7 @@ Check-ins live in iCloud alongside your trips and drives. They have timestamps, 
 
 A check-in without a Spot is perfectly normal — most check-ins are created directly, without the location having been in the Spots database beforehand. You're simply recording where you slept.
 
-→ See [[Check-ins — The Engine of the Travel Journal]]
+→ See [[Check-ins_The_Engine_of_the_Travel_Journal]]
 
 ---
 
@@ -121,8 +121,8 @@ These are related concepts but separate things. A check-in of type "Campsite" do
 
 ## Related Articles
 
-- [[Check-ins — The Engine of the Travel Journal]] — *The full concept of check-ins*
-- [[The Spots Vault]] — *How the location database works*
+- [[Check-ins_The_Engine_of_the_Travel_Journal]] — *The full concept of check-ins*
+- [[The_Spots_Vault]] — *How the location database works*
 - [[How to create a Check-in]] — *Step-by-step guide*
-- [[Spot Detail Reconnaissance]] — *Scouting a Spot before you visit*
-- [[The Trip Planner & Route Builder]] — *Planning routes using Spots*
+- [[Spot_Detail_Reconnaissance]] — *Scouting a Spot before you visit*
+- [[Trip_Planner_and_Route_Builder|The Trip Planner & Route Builder]] — *Planning routes using Spots*

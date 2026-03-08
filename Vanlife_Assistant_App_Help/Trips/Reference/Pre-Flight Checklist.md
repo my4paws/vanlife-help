@@ -47,9 +47,9 @@ These are generated automatically by the app each time you open the checklist, b
 
 |Smart Check|When it appears|
 |---|---|
-|🐾 **Pets Secured & Watered**|When your crew includes a non-human [[Settings/Reference/Managing The Crew and Fleet Manager|Traveller]] (a dog, cat, or other animal added to Settings)|
+|🐾 **Pets Secured & Watered**|When your crew includes a non-human [[Managing The Crew and Fleet Manager|Traveller]] (a dog, cat, or other animal added to Settings)|
 |💡 **Exterior Lights Check**|After 8pm or before 6am—a reminder to verify your lights before driving in the dark|
-|🔌 **[Sensor Name] Secured**|For every HomeKit contact sensor or door sensor connected via [[Van/SmartVan/SmartVan_Index|SmartVan]]—the app reads the live state and pre-ticks it if already closed|
+|🔌 **[Sensor Name] Secured**|For every HomeKit contact sensor or door sensor connected via [[SmartVan_Index|SmartVan]]—the app reads the live state and pre-ticks it if already closed|
 
 The HomeKit checks are the real magic. If your awning sensor reports **Open**, the checklist shows it un-ticked and highlighted in orange so it demands attention before you can complete the list. If it's already **Closed**, it arrives pre-ticked—no extra taps needed.
 
@@ -109,7 +109,7 @@ There's also a **hard reset** that triggers the moment you use the van's Parke
 
 ## Safety Interlock (SmartVan)
 
-If you use the [[Van/SmartVan/SmartVan_Index|SmartVan]] integration to switch your van into **Driving mode** via the mode selector, the app performs a last-chance sensor scan before the mode switches. If any connected **contact sensor or door sensor** is still reporting as open at that moment, a **Safety Interlock** alert fires, listing every open sensor by name.
+If you use the [[SmartVan_Index|SmartVan]] integration to switch your van into **Driving mode** via the mode selector, the app performs a last-chance sensor scan before the mode switches. If any connected **contact sensor or door sensor** is still reporting as open at that moment, a **Safety Interlock** alert fires, listing every open sensor by name.
 
 You're presented with two options:
 
@@ -126,12 +126,12 @@ This is a safety net, not a hard block — you're always in control. But if your
 
 **Can I turn the Pre-Flight Checklist off entirely?** The checklist is always available, but nothing forces you to use it. If you prefer not to, simply ignore the orange Pre-Flight pill on the Journey Card. It will never block you from using any other part of the app.
 
-**My HomeKit sensors aren't showing up in the Smart Checks.** The app reads sensor data from your SmartVan HomeKit home at the moment you open the checklist. If sensors aren't appearing, check that your [[Van/SmartVan/SmartVan_Index|SmartVan]] integration is connected and that the relevant accessories are contact sensors or door/garage sensors — other sensor types (motion, temperature, etc.) are not included in the pre-flight scan.
+**My HomeKit sensors aren't showing up in the Smart Checks.** The app reads sensor data from your SmartVan HomeKit home at the moment you open the checklist. If sensors aren't appearing, check that your [[SmartVan_Index|SmartVan]] integration is connected and that the relevant accessories are contact sensors or door/garage sensors — other sensor types (motion, temperature, etc.) are not included in the pre-flight scan.
 
 ---
 
 ## Related Articles
 
 - [[The Trips Dashboard]]
-- [[Trips/Reference/Drive Recorder|Drive Recorder]]
-- [[Van/SmartVan/SmartVan_Index|SmartVan]]
+- [[Drive Recorder|Drive Recorder]]
+- [[SmartVan_Index|SmartVan]]

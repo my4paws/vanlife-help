@@ -22,11 +22,11 @@ Concept articles are not tutorials. They don't walk you through steps — they b
 
 ## Start Here
 
-- **[[How Vanlife Assistant Works]]** — *The big picture. All the systems, how they connect, and why.*
-- **[[The Trip Structure Explained]]** — *How expeditions, drives, and check-ins fit together into your travel history.*
-- **[[Check-ins — The Engine of the Travel Journal]]** — *Why check-ins are central to the whole app and what they feed.*
-- **[[Spots vs Check-ins — What's the Difference?]]** — *The most common confusion point, explained clearly.*
-- **[[The Manifest System — How Gear Is Organised]]** — *The Zone → Container → Item hierarchy and why it works that way.*
+- **[[How_Vanlife_Assistant_Works]]** — *The big picture. All the systems, how they connect, and why.*
+- **[[The_Trip_Structure_Explained]]** — *How expeditions, drives, and check-ins fit together into your travel history.*
+- **[[Check-ins_The_Engine_of_the_Travel_Journal]]** — *Why check-ins are central to the whole app and what they feed.*
+- **[[Spots_vs_Check-ins_Whats_the_Difference]]** — *The most common confusion point, explained clearly.*
+- **[[The_Manifest_System_How_Gear_Is_Organised]]** — *The Zone → Container → Item hierarchy and why it works that way.*
 
 ---
 

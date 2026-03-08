@@ -78,4 +78,4 @@ For the deeper parser behaviour, read **[[Understanding Date Ranges]]**.
 - [[Follow Up Questions]]
 - [[Understanding Date Ranges]]
 - [[Voice Finance Commands]]
-- [[Voice Assistant Index]]
+- [[Voice_Index|Voice Assistant Index]]

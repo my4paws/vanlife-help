@@ -65,7 +65,7 @@ Zones have two types:
 
 You set up zones first, before adding any items. The zone structure defines the shape of your inventory.
 
-→ See [[Setting Up Your Van's Zones]]
+→ See [[Setting_Up_Your_Vans_Zones]]
 
 ---
 
@@ -81,7 +81,7 @@ Containers have two superpowers:
 
 **QR labels** — every container gets a unique QR code. Print it and stick it to the physical box. Point the app's scanner at it to jump directly to that container's contents — useful during a stocktake or when someone asks where something is.
 
-→ See [[Containers and QR Labels]]
+→ See [[Containers_and_QR_Labels]]
 
 ---
 
@@ -117,7 +117,7 @@ The payload header on the Manifest home screen shows a colour-coded ring: green 
 
 The **Payload Heatmap** shows the same information spatially — a colour gradient across your van's floor plan, hot where weight is concentrated. Useful for checking whether your load is balanced front-to-rear and side-to-side.
 
-→ See [[Payload and Weight Management]]
+→ See [[Payload_and_Weight_Management]]
 
 ---
 
@@ -137,7 +137,7 @@ The **Audit Tool** runs a zone-by-zone stocktake. It presents each zone in turn 
 
 Use the Audit Tool at the start of a new trip to confirm the van is fully loaded, or at the end to see what was used or lost.
 
-→ See [[Stocktaking with the Audit Tool]]
+→ See [[Stocktaking_with_the_Audit_Tool]]
 
 ---
 
@@ -149,10 +149,10 @@ Because the Manifest exists as structured data, the Voice Assistant can query it
 
 ## Related Articles
 
-- [[Understanding the Manifest]] — *The Manifest home screen in detail*
-- [[Setting Up Your Van's Zones]] — *Required first step*
-- [[Adding and Editing Items]] — *Every field explained*
-- [[Containers and QR Labels]] — *Physical labelling for your gear*
-- [[Payload and Weight Management]] — *The weight calculation in full*
-- [[Stocktaking with the Audit Tool]] — *Verifying what's actually in the van*
-- [[Inventory Control and Expiry Dates]] — *Low-stock alerts and expiry tracking*
+- [[Understanding_the_Manifest]] — *The Manifest home screen in detail*
+- [[Setting_Up_Your_Vans_Zones]] — *Required first step*
+- [[Adding_and_Editing_Items]] — *Every field explained*
+- [[Containers_and_QR_Labels]] — *Physical labelling for your gear*
+- [[Payload_and_Weight_Management]] — *The weight calculation in full*
+- [[Stocktaking_with_the_Audit_Tool]] — *Verifying what's actually in the van*
+- [[Inventory_Control_and_Expiry_Dates]] — *Low-stock alerts and expiry tracking*

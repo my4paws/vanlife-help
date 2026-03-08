@@ -142,5 +142,5 @@ Build a rule with:
 - [[Van_Brain|The Van Brain]] — Full reference for the automation engine: all trigger types, condition types, and action types
 - [[The_Solar_and_Weather_Card|The Solar & Weather Card]] — The live weather display on the Trips Dashboard
 - [[SmartVan_Setup|Setting Up Smart Van]] — HomeKit requirements and first-time setup
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] — Why the app needs location and background refresh permissions
+- [[Permissions Explained|Permissions Explained]] — Why the app needs location and background refresh permissions
 - [[Viewing_Weather_Forecasts_for_Your_Route_and_Spots|Viewing Weather Forecasts for Your Route & Spots]]

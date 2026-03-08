@@ -118,16 +118,16 @@ A **Check-in** is a *personal history* — it has a date, your experience of the
 
 When you stay somewhere from your Spots database, you can **promote** a Spot into a check-in. The Spot's details (type, services, coordinates) pre-fill the check-in form, and you add the personal layer.
 
-→ See [[Spots vs Check-ins — What's the Difference?]] for the full comparison.
+→ See [[Spots_vs_Check-ins_Whats_the_Difference]] for the full comparison.
 
 ---
 
 ## Related Articles
 
-- [[The Trip Structure Explained]] — *How check-ins fit into trips and drives*
-- [[Spots vs Check-ins — What's the Difference?]] — *The distinction between reference and history*
+- [[The_Trip_Structure_Explained]] — *How check-ins fit into trips and drives*
+- [[Spots_vs_Check-ins_Whats_the_Difference]] — *The distinction between reference and history*
 - [[How to create a Check-in]] — *Step-by-step guide*
-- [[The Magic of Check-ins: Automated Journaling]] — *The photo-first creation workflow*
+- [[The Magic of Check-ins - Automated Journaling]] — *The photo-first creation workflow*
 - [[Check-in Detail View]] — *What's in a check-in record*
 - [[Schengen Calculator]] — *How check-ins feed your 90-day counter*
 - [[The Compass and Records Card]] — *All-time statistics derived from check-ins*

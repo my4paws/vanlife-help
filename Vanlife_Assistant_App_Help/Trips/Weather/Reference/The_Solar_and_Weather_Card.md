@@ -127,13 +127,13 @@ Solar and lunar position calculations run entirely on-device using local astrono
 
 ## Permissions Required
 
-The Solar & Weather Card requires **Location Services** to be enabled in order to calculate solar positions and fetch weather data for your current position. If location access is denied, the card shows "Location required to calculate astrometrics" and will not display data. Permissions can be updated in iOS Settings → Privacy & Security → Location Services → Vanlife Assistant. See [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] for full details.
+The Solar & Weather Card requires **Location Services** to be enabled in order to calculate solar positions and fetch weather data for your current position. If location access is denied, the card shows "Location required to calculate astrometrics" and will not display data. Permissions can be updated in iOS Settings → Privacy & Security → Location Services → Vanlife Assistant. See [[Permissions Explained|Permissions Explained]] for full details.
 
 ---
 
 ## Related Articles
 
-- [[Trips/Weather/Deep Dive/How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]]
+- [[How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]]
 - [[Viewing_Weather_Forecasts_for_Your_Route_and_Spots|Viewing Weather Forecasts for Your Route & Spots]]
 - [[Trip_Planner_and_Route_Builder|Trip Planner & Route Builder]]
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]]
+- [[Permissions Explained|Permissions Explained]]

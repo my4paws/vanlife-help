@@ -69,4 +69,4 @@ Matte labels usually behave better than glossy ones, especially in bright sunshi
 - [[Understanding_the_Manifest|Understanding the Manifest]]
 - [[Containers_and_QR_Labels|Containers and QR Labels]]
 - [[Setting_Up_Your_Vans_Zones|Setting Up Your Van's Zones]]
-- [[Manifest Index]]
+- [[Van/Manifest/Index]]

@@ -49,7 +49,7 @@ The front shows your headline travel status:
 - **Days on the Road** — a large animated counter showing the total time since your vanlife start date (set in Settings). Below the number, a smaller breakdown shows the same figure broken into years, months, and days.
 - **Drive Recorder dot** — a small indicator at the top of the card pulses green when the [[Drive_Recorder|Drive Recorder]] is actively logging a route. Tap it to see the current tracking mode (High Accuracy, Breadcrumb, or Armed).
 - **Parking button (top-left)** — while moving, a subtle parking button appears. Tap it to instantly log your current GPS coordinates as a parked location. Once parked, the button changes to show how long you've been stopped and offers a **Walking Directions** shortcut — tap it to get Apple Maps walking navigation back to your van from wherever you've wandered.
-- **Pre-Flight button (top-right)** — if your van's pre-flight checklist hasn't been completed recently, this shows as a warning. Tap to open the [[Trips/Reference/Pre-Flight Checklist|Pre-Flight Checklist]]. Once completed it displays "Ready" in green.
+- **Pre-Flight button (top-right)** — if your van's pre-flight checklist hasn't been completed recently, this shows as a warning. Tap to open the [[Pre-Flight Checklist|Pre-Flight Checklist]]. Once completed it displays "Ready" in green.
 
 **Back side — Smart Modes or Milestones**
 
@@ -69,7 +69,7 @@ Below the Journey Card, a horizontally scrollable carousel shows all your expedi
 - The total trip cost in your home currency
 - A trip avatar — an icon or letter based on the expedition name
 
-Tap any expedition card to open the [[Trips/Reference/Trip Detail View|Trip Detail View]] for that expedition. If you haven't created any trips yet, a prompt to create your first one appears here instead.
+Tap any expedition card to open the [[Trip Detail View|Trip Detail View]] for that expedition. If you haven't created any trips yet, a prompt to create your first one appears here instead.
 
 ---
 
@@ -77,7 +77,7 @@ Tap any expedition card to open the [[Trips/Reference/Trip Detail View|Trip Deta
 
 A full-width embedded map shows your current location and, when you search, highlights matching check-ins. The map has two modes:
 
-- **Normal mode:** shows your current GPS position. Tap the expand button (top-right) to open the full-screen [[Trips/Reference/Unified History Map|Unified History Map]] with all your routes and check-ins.
+- **Normal mode:** shows your current GPS position. Tap the expand button (top-right) to open the full-screen [[Unified History Map|Unified History Map]] with all your routes and check-ins.
 - **Search mode:** as you type in the search field below the map, the map shifts to display matching check-ins as pins. The search matches against check-in location names, your personal notes, tags, and check-in type. Searching by service type works too — try "free water", "electric hookup", or "laundry" to find stops by what they offered.
 
 Tap the **×** in the search field to clear and return to normal mode.
@@ -95,13 +95,13 @@ A flippable dual-sided card. See [[The_Solar_and_Weather_Card|The Solar & Weathe
 
 ### The Schengen Status Card
 
-This card only appears if you have crew members with a non-EU passport configured in Settings. It shows a live countdown of how many of the 90 Schengen visa-free days you have remaining, visualised as an animated liquid-fill donut chart. The 90-day rolling window is calculated automatically from your check-in and border crossing history. See [[Trips/Reference/Schengen Calculator|The Schengen Calculator]] for the full explanation of how the calculation works.
+This card only appears if you have crew members with a non-EU passport configured in Settings. It shows a live countdown of how many of the 90 Schengen visa-free days you have remaining, visualised as an animated liquid-fill donut chart. The 90-day rolling window is calculated automatically from your check-in and border crossing history. See [[Schengen Calculator|The Schengen Calculator]] for the full explanation of how the calculation works.
 
 ---
 
 ### The Visited Countries Card
 
-A grid of flags for every country you have entered, ordered by first visit. The app records a country visit when you save a check-in there, log a financial transaction there, or when the [[Trips/Reference/Border Crossing Detection|Border Crossing Detection]] engine detects a crossing via GPS.
+A grid of flags for every country you have entered, ordered by first visit. The app records a country visit when you save a check-in there, log a financial transaction there, or when the [[Border Crossing Detection|Border Crossing Detection]] engine detects a crossing via GPS.
 
 - Tap any flag to see the country name.
 - Long-press any flag to filter the full-screen map to show only routes and check-ins from within that country.
@@ -122,11 +122,11 @@ The final card on the dashboard is a flippable statistics card that builds over 
 
 ## Related Articles
 
-- [[Trips/Tutorials/Creating a Trip (Expeditions)|Creating a Trip]] — setting up expeditions and managing their date ranges
-- [[Trips/Reference/Checkins and Timeline|Check-ins & Timeline]] — logging stops and building your travel history
+- [[Creating a Trip (Expeditions)|Creating a Trip]] — setting up expeditions and managing their date ranges
+- [[Checkins and Timeline|Check-ins & Timeline]] — logging stops and building your travel history
 - [[Drive_Recorder|The Drive Recorder]] — recording routes and tracking drives
 - [[The_Solar_and_Weather_Card|The Solar & Weather Card]] — full reference for the solar compass and weather forecast
-- [[Trips/Reference/Schengen Calculator|The Schengen Calculator]] — how the 90-day calculation works
-- [[Trips/Reference/Unified History Map|The Unified History Map]] — the full-screen map of all your routes and check-ins
-- [[Trips/Reference/Border Crossing Detection|Border Crossing Detection]] — automatic country detection
+- [[Schengen Calculator|The Schengen Calculator]] — how the 90-day calculation works
+- [[Unified History Map|The Unified History Map]] — the full-screen map of all your routes and check-ins
+- [[Border Crossing Detection|Border Crossing Detection]] — automatic country detection
 - [[SmartVan_Index|Smart Van]] — Van Modes, the Safety Interlock, and accessories

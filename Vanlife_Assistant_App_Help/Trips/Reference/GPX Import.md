@@ -27,7 +27,7 @@ GPX (GPS Exchange Format) is the universal file type for maps. When you upload a
 
 ### 1. Smart Waypoint Parsing (`<wpt>`)
 
-If your GPX file includes saved locations or pins, the app converts them into **[[Trips/Reference/Checkins and Timeline|Check-ins]]**. Even better, it reads the names and symbols of those waypoints to automatically categorise them for you!
+If your GPX file includes saved locations or pins, the app converts them into **[[Checkins and Timeline|Check-ins]]**. Even better, it reads the names and symbols of those waypoints to automatically categorise them for you!
 
 - If the waypoint contains words like "camp" or "tent", it becomes a **Campsite**.
 - Words like "wild" or "nature" categorise it as a **Wild Camp**.
@@ -41,7 +41,7 @@ Instead, the engine looks at the timestamps of your route. **If it detects a ga
 
 ### 3. Elevation Hysteresis
 
-Just like the live [[Trips/Reference/Drive Recorder|Drive Recorder]], the GPX importer protects your stats from messy data. It applies a strict **5.0-metre hysteresis filter** to imported elevation data, completely ignoring tiny, jagged elevation changes under 5 metres. This ensures your imported "Total Ascent" is an accurate reflection of the mountains you actually climbed—not GPS noise.
+Just like the live [[Drive Recorder|Drive Recorder]], the GPX importer protects your stats from messy data. It applies a strict **5.0-metre hysteresis filter** to imported elevation data, completely ignoring tiny, jagged elevation changes under 5 metres. This ensures your imported "Total Ascent" is an accurate reflection of the mountains you actually climbed—not GPS noise.
 
 ---
 
@@ -70,6 +70,6 @@ The importer tries to be helpful by reading the `<metadata>` tags hidden insid
 
 ## Related Articles
 
-- [[Trips/Reference/Drive Recorder|Drive Recorder]]
-- [[Trips/Tutorials/Creating a Trip (Expeditions)|Creating a Trip]]
-- [[Trips/Reference/Elevation Charts|Elevation Charts]] _(Imported GPX routes feed directly into your Expedition Profile!)_
+- [[Drive Recorder|Drive Recorder]]
+- [[Creating a Trip (Expeditions)|Creating a Trip]]
+- [[Elevation Charts|Elevation Charts]] _(Imported GPX routes feed directly into your Expedition Profile!)_

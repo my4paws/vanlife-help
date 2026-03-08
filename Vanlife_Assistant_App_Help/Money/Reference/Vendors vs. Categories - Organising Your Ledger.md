@@ -58,4 +58,4 @@ If you buy engine oil at a supermarket, the **Vendor** is "Tesco," but the **Cat
 Now that you've mastered the art of organising your entries, let's look at how to find specific transactions when you're in a hurry.
 
 👉 **[[Mastering Ledger Search & Filters]]**
-👉 **[[Money/Reference/Adding Transactions|Adding Transactions]]**
+👉 **[[Adding Transactions|Adding Transactions]]**

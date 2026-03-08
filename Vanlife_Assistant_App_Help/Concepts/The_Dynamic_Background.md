@@ -119,6 +119,6 @@ The background uses your location to fetch weather and determine which side of s
 
 ## Related Articles
 
-- [[The Solar & Weather Card]] — *The solar compass and five-day forecast on the Travel tab*
-- [[How Weather Alerts Work with SmartVan]] — *Weather-triggered automations*
+- [[The_Solar_and_Weather_Card]] — *The solar compass and five-day forecast on the Travel tab*
+- [[How_Weather_Alerts_Work_with_SmartVan]] — *Weather-triggered automations*
 - [[Permissions Explained]] — *Location permission and what it's used for*

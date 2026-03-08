@@ -85,6 +85,6 @@ At the end of the day, you have a drive log of the exact route you took, and you
 ## Related Articles
 
 - [[Drive Recorder]] — *Recording a drive*
-- [[The Trip Planner & Route Builder]] — *Planning routes with Spots*
-- [[Spots vs Check-ins — What's the Difference?]] — *Scouted places vs visited places*
-- [[Navigation App Selection]] — *Choosing your external nav app*
+- [[Trip_Planner_and_Route_Builder|The Trip Planner & Route Builder]] — *Planning routes with Spots*
+- [[Spots_vs_Check-ins_Whats_the_Difference]] — *Scouted places vs visited places*
+- [[Spot_Detail_Reconnaissance|Navigation App Selection]] — *Choosing your external nav app*

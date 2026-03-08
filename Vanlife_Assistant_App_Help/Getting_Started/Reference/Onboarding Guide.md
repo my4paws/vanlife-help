@@ -24,7 +24,7 @@ Here is what to expect during your initial setup.
 ## 🛠️ Step 1: Your Vehicle Profile
 First, we need to know what you are driving. This isn't just for show; the app uses this data to keep you safe and calculate your costs.
 * **Make, Model & Year:** Give your rig a name!
-* **Dimensions & Weight:** *Crucial!* Enter your height, width, length, and weight. The app uses this to warn you about low bridges and weight restrictions on your route. 👉 *See [[Van/The Van/Reference/Van_Profile_and_Setup|Vehicle Specifications]]*
+* **Dimensions & Weight:** *Crucial!* Enter your height, width, length, and weight. The app uses this to warn you about low bridges and weight restrictions on your route. 👉 *See [[Van_Profile_and_Setup|Vehicle Specifications]]*
 * **Fuel Type:** Diesel, Petrol, or Electric? This helps the app accurately track your fuel economy and calculate your [[How to build your first What-If Scenario|Financial Scenarios]].
 
 ## 🛂 Step 2: Travel & Schengen Setup
@@ -47,7 +47,7 @@ We hope you never need it, but you'll be glad it's there.
 ## 📦 Step 5: The Manifest & SmartVan
 Finally, we set up the digital infrastructure of your home.
 * **Manifest Zones:** You can start with our default zones (e.g., "Under Bed," "Kitchen," "Garage") or create your own custom storage locations.
-* **SmartVan (Optional):** If you have HomeKit-enabled temperature sensors or smart batteries in your rig, you can grant the app permission to read them here. 👉 *See [[Van/SmartVan/Reference/SmartVan_Setup|Connecting HomeKit Accessories]]*
+* **SmartVan (Optional):** If you have HomeKit-enabled temperature sensors or smart batteries in your rig, you can grant the app permission to read them here. 👉 *See [[SmartVan_Setup|Connecting HomeKit Accessories]]*
 * **Voice Assistant:** Grant microphone permissions so you can start logging expenses and finding gear hands-free! 👉 *See [[Permissions Explained]]*
 
 ---
@@ -58,4 +58,4 @@ Finally, we set up the digital infrastructure of your home.
 Whenever you are ready to finish your setup, just tap the **Settings** gear icon in the app, and you'll find dedicated sections for your Van, Money, Trips, and more.
 
 ## What's Next?
-Now that your profile is built, we recommend checking out the **[[Pre-Flight Checklist]]** before you hit the road, or start digitally packing your gear in the **[[Van/Manifest/Understanding_the_Manifest|Manifest]]**.
+Now that your profile is built, we recommend checking out the **[[Pre-Flight Checklist]]** before you hit the road, or start digitally packing your gear in the **[[Understanding_the_Manifest|Manifest]]**.

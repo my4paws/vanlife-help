@@ -42,7 +42,7 @@ A Custom Milestone is a personal marker you place on your timeline. It doesn't a
 
 The app’s engine constantly looks into the future to plant "Smart Flags" based on your real-world spending habits and your vehicle's health.
 
-* **The Zero Day (Runway End):** The most important milestone in the app. The `RunwayEngine` calculates exactly when your liquid cash will hit zero based on your current [[Money/Reference/Mastering Ledger Search & Filters|Burn Rate]]. This prediction is updated in real-time and displayed clearly in the **Time Until Empty** block.
+* **The Zero Day (Runway End):** The most important milestone in the app. The `RunwayEngine` calculates exactly when your liquid cash will hit zero based on your current [[Mastering Ledger Search & Filters|Burn Rate]]. This prediction is updated in real-time and displayed clearly in the **Time Until Empty** block.
 * **Projected Ages:** To make the future feel real, the app calculates how old every traveler in your group will be when your funds are projected to run out. 
 * **Maintenance Landmarks:** By analyzing your driving data and your [[Category - Group Management|Vehicle Expenses]], the dashboard predicts when your next major service is due. This helps you prepare for mechanical costs before they catch you off guard.
 
@@ -55,7 +55,7 @@ All of these landmarks are brought together in the **10-Year Forecast** area of 
 While your custom milestones are managed in their own dedicated timeline, your financial landmarks (like the Zero Day and your projected ages) are displayed directly beneath your runway chart. This allows you to see the "finish line" and your personal goals in one unified context.
 
 > ✨ **Magic Feature: Dynamic Deadlines**
-> Because your [[Money/Reference/The Money Dashboard - Your Financial GPS|Time Until Empty]] is calculated based on your actual spending, it is a living prediction. If you boondock for a month and spend less than average, you’ll actually see your projected runway date move further into the future!
+> Because your [[The Money Dashboard - Your Financial GPS|Time Until Empty]] is calculated based on your actual spending, it is a living prediction. If you boondock for a month and spend less than average, you’ll actually see your projected runway date move further into the future!
 
 ---
 

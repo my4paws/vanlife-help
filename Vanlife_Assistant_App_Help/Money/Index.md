@@ -23,7 +23,7 @@ Everything you need to master your finances on the road.
 
 ### Tracking & Logging
 
-- [[Money/Reference/Adding Transactions|Adding Transactions]] — Logging expenses, income, transfers, splits, and receipts
+- [[Adding Transactions|Adding Transactions]] — Logging expenses, income, transfers, splits, and receipts
 - [[Scheduled Transactions]] — Setting up recurring bills and automatic payments
 - [[Vendors vs. Categories - Organising Your Ledger]] — The "who" and the "what" of your spending
 - [[Category - Group Management]] — Customising your categories, groups, and vehicle tracking flags
@@ -39,7 +39,7 @@ Everything you need to master your finances on the road.
 - [[Mastering Ledger Search & Filters]] — Search, filter chips, date ranges, and voice search
 - [[Monthly Reports and PDF Exports]] — Spending trends, treemaps, and PDF generation
 - [[Exporting Your Data (CSV)]] — Exporting your ledger to a spreadsheet
-- [[Money/Reference/Importing Your History - The CSV Wizard|Importing Your History - The CSV Wizard]] — Bringing in data from other apps or bank exports
+- [[Importing Your History - The CSV Wizard|Importing Your History - The CSV Wizard]] — Bringing in data from other apps or bank exports
 
 ### Planning
 

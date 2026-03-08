@@ -24,7 +24,7 @@ Because of this, an **Expedition** (Trip) behaves entirely differently depending
 If you create a Trip with a Start Date in the future (e.g., planning a summer trip to Norway while it's still January), the Trip enters **Planning Mode**.
 
 * **No Live Tracking:** You cannot log a "live" Check-in or use the Drive Recorder for a Future Trip.
-* **The Scout Engine:** This is where the magic happens. The app activates the `ExpeditionScoutEngine`. It looks at your upcoming destination and your [[Van/Manifest/Understanding_the_Manifest|Van Manifest]], and begins suggesting items you need to pack (or unpack!). 
+* **The Scout Engine:** This is where the magic happens. The app activates the `ExpeditionScoutEngine`. It looks at your upcoming destination and your [[Understanding_the_Manifest|Van Manifest]], and begins suggesting items you need to pack (or unpack!). 
 * **Payload Calculation:** As you assign gear to your Future Trip, the dashboard displays your expected Onboard Weight vs. your Van's Maximum Payload, ensuring you don't pack too heavy before you even leave the driveway.
 
 ---
@@ -34,7 +34,7 @@ When the calendar hits your Trip's Start Date, it automatically becomes your **A
 *(Note: You can only have one Active trip at a time).*
 
 * **The Command Center:** Your [[The Trips Dashboard]] transforms to show live data: Days on the road, remaining Schengen visa days, and live Drive Recorder status.
-* **Automatic Aggregation:** Every [[Money/Reference/Adding Transactions|financial expense]] you log, every Check-in you create, and every mile you drive is silently and automatically tagged and permanently attached to this specific Expedition.
+* **Automatic Aggregation:** Every [[Adding Transactions|financial expense]] you log, every Check-in you create, and every mile you drive is silently and automatically tagged and permanently attached to this specific Expedition.
 
 ---
 

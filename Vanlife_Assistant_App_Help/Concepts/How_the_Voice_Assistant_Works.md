@@ -121,8 +121,8 @@ The assistant's access to your data comes from two sources:
 Beyond the conversational overlay, the assistant also exposes its capabilities to iOS through **App Intents** — system-level actions that Siri and the Shortcuts app can call. This means you can set up a Siri shortcut to log an expense, check your Schengen status, or find a manifest item without opening the app at all.
 
 → See the Voice Assistant reference articles for the full list of what you can ask:
-- [[Voice — Finance and Spending]]
-- [[Voice — Travel and Check-ins]]
-- [[Voice — Inventory and Manifest]]
-- [[Voice — Documents and Glovebox]]
-- [[Voice — Van Specs and Maintenance]]
+- [[Voice_Finance|Voice — Finance and Spending]]
+- [[Voice_Travel|Voice — Travel and Check-ins]]
+- [[Voice_Inventory|Voice — Inventory and Manifest]]
+- [[Voice_Documents|Voice — Documents and Glovebox]]
+- [[Voice_VanSpecs|Voice — Van Specs and Maintenance]]

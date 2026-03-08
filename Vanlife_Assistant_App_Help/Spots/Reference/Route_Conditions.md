@@ -95,4 +95,4 @@ Yes. Route Conditions fetches live forecast data from Apple WeatherKit when the 
 ## Related Articles
 - [[Trip_Planner_and_Route_Builder|The Trip Planner & Route Builder]]
 - [[The_Spots_Vault|The Spots Vault]]
-- [[Trips/Weather/Deep Dive/How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts work with SmartVan]] *(Same weather engine, different application)*
+- [[How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts work with SmartVan]] *(Same weather engine, different application)*

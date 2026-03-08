@@ -98,13 +98,13 @@ Location triggers additionally need **Location — Always Allow**. This is the p
 
 If the app only has "While Using" permission, location triggers won't fire when the app is in the background. To upgrade: go to **iPhone Settings → Privacy & Security → Location Services → Vanlife Assistant** and select **Always**.
 
-See [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] for the full guide on location permission levels.
+See [[Permissions Explained|Permissions Explained]] for the full guide on location permission levels.
 
 ---
 
 ## Voice Shortcuts
 
-Both triggers can be set entirely by voice. The [[Whiteboard/Reference/Voice Additions|Voice Additions]] article covers this in full, but as a quick reference:
+Both triggers can be set entirely by voice. The [[Voice Additions|Voice Additions]] article covers this in full, but as a quick reference:
 
 - *"Remind me to call the garage on Tuesday at 10am"* — sets a time trigger
 - *"Remind me to pick up the parcel when I get to Mum's"* — sets a location trigger, provided "Mum's" is an offboard zone
@@ -142,5 +142,5 @@ Yes. You can have as many items as you like pointing at the same zone. When you 
 - [[Using the Whiteboard|Using the Whiteboard]]
 - [[Voice Additions|Voice Additions]]
 - [[Permissions Explained|Permissions Explained]]
-- [[Advanced/Reference/Background_Behaviour|Background Behaviour]]
-- [[Van/Manifest/Tutorials/Setting_Up_Your_Vans_Zones|Setting up your Van's Zones]]
+- [[Background_Behaviour|Background Behaviour]]
+- [[Setting_Up_Your_Vans_Zones|Setting up your Van's Zones]]

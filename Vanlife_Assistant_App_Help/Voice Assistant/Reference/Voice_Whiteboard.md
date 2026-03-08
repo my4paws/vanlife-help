@@ -125,4 +125,4 @@ Both can be used in the same item. If both a date and a location are detected, b
 
 ## Related Articles
 - [[Voice_Overview|Voice Overview]]
-- [[Whiteboard/Reference/Using the Whiteboard|Using the Whiteboard]]
+- [[Using the Whiteboard|Using the Whiteboard]]

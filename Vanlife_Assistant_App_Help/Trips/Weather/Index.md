@@ -40,7 +40,7 @@ Weather is woven through the entire app — the Trips Dashboard tracks it in rea
 
 ## 🔬 Deep Dives
 
-- [[Trips/Weather/Deep Dive/How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]] — Using weather thresholds as Van Brain automation triggers, what the engine checks, and practical automation examples
+- [[How_Weather_Alerts_Work_with_SmartVan|How Weather Alerts Work with SmartVan]] — Using weather thresholds as Van Brain automation triggers, what the engine checks, and practical automation examples
 
 ---
 
@@ -48,5 +48,5 @@ Weather is woven through the entire app — the Trips Dashboard tracks it in rea
 
 - [[SmartVan_Index|Smart Van]] — The Van Brain automation engine that powers weather-triggered rules
 - [[Trip_Planner_and_Route_Builder|Trip Planner & Route Builder]] — The Route Conditions sheet that forecasts weather along your planned route
-- [[Trips/Reference/Checkins and Timeline|Check-ins & Timeline]] — How weather is automatically captured when you save a check-in
-- [[Getting_Started/Reference/Permissions Explained|Permissions Explained]] — Why the app needs Location and WeatherKit access
+- [[Checkins and Timeline|Check-ins & Timeline]] — How weather is automatically captured when you save a check-in
+- [[Permissions Explained|Permissions Explained]] — Why the app needs Location and WeatherKit access
