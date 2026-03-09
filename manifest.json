@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.8",
   "files": [
     {"path": "Advanced/Index.md", "sha256": "3a4c4465f183e0efdac28079035f26cb2fc7c1d5ff04276d5c3ac48c9cfad198"},
     {"path": "Advanced/Reference/Background_Behaviour.md", "sha256": "e1bc395dbc5727761b862a81b99c3ac682211640a2e1d710d85a04599d69302e"},
@@ -9,8 +9,8 @@
     {"path": "Concepts/Border_Crossings_and_Country_Detection.md", "sha256": "07ada27d0206c3954dc88fcf358537641244b6c8948f4bdbfd7beec202cd8b80"},
     {"path": "Concepts/Check-ins_The_Engine_of_the_Travel_Journal.md", "sha256": "a47e3d93044f6671c1a0528f9196039ee31fd596392c2bc9dcc384baf8ad656f"},
     {"path": "Concepts/Drives_Navigation_and_Route_Planning.md", "sha256": "c37c67587bf51e0ab99a6f0dc39d0644b39304363ace0197ff2a4ffd3ad92436"},
-    {"path": "Concepts/How_Vanlife_Assistant_Works.md", "sha256": "f6514b8ea4ad6cff1d4e2789ab5d4146a5a828ac461551e0e79702c7e8e3d3b3"},
     {"path": "Concepts/How_the_Voice_Assistant_Works.md", "sha256": "37da7f11d3cd185175506157f72e85988de9ba2f85825ec05ae46b5624a90940"},
+    {"path": "Concepts/How_Vanlife_Assistant_Works.md", "sha256": "f6514b8ea4ad6cff1d4e2789ab5d4146a5a828ac461551e0e79702c7e8e3d3b3"},
     {"path": "Concepts/Index.md", "sha256": "82973803f70b9498a40ed3287d763ffae2609f05d14b86b70de26164c61e4403"},
     {"path": "Concepts/Offline-First_Design.md", "sha256": "e561d2162a6e8012e10fe630772673cf84192a406314fc142bdf4c30234a45b5"},
     {"path": "Concepts/Scenarios_and_Financial_Forecasting.md", "sha256": "d60b682a5d5892357aa24120529ac965bcb8fe64d78209824807aa0132aaf01f"},
