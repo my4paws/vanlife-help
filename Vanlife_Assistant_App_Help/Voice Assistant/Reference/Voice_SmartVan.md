@@ -127,7 +127,7 @@ Returns the same summary text shown on the Van tab status card: current mode, an
 
 **Unreachable devices**: If a device is unreachable at the time of the command, the HomeKit write will still be attempted, but the response may reflect the last-known state rather than the new one.
 
-**Mode safety interlock**: Switching to Driving mode via voice still checks for open sensors. If any doors or windows are open, the mode switch happens anyway (the voice command bypasses the "Ignore & Drive" confirmation alert — it assumes you've acknowledged the situation).
+**Mode safety interlock**: Switching to Driving mode via voice checks for open sensors exactly as a manual tap does. If any contact sensors are open or unlocked when you say *"Driving mode"* or *"We are leaving"*, the mode switch is **blocked** and the assistant responds with a spoken warning listing the open sensors by name — for example, *"Cannot switch to driving mode. The following are still open: Sliding Door, Roof Vent. Please secure them before driving."* Close the flagged sensors and repeat the command to proceed. Unlike the manual UI, there is no voice equivalent of "Ignore & Drive" — voice commands cannot override the safety interlock.
 
 **Multiple devices**: Each command targets one device at a time. There's no group control command — to control multiple devices simultaneously, use a HomeKit scene instead and execute it by name.
 

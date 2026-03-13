@@ -40,7 +40,11 @@ The five system modes are created automatically and cannot be deleted. Their nam
 ### 🟠 Driving
 The road-ready state. Activating Driving Mode deactivates the GPS perimeter anchor (Spot Mode), which stops geofencing alerts. Typically paired with scenes that secure the van: turning off cabin lights, locking doors, and disabling any appliances that shouldn't run while moving.
 
-**Automatic trigger:** When the GPS perimeter detects the van has left a pitch with driving-speed motion detected, Driving Mode activates automatically and a departure notification is sent.
+**Automatic triggers:** Driving Mode can be activated automatically by two sources:
+
+- **GPS perimeter departure** — When the GPS perimeter detects the van has left a pitch with driving-speed motion detected, Driving Mode activates automatically and a departure notification is sent.
+
+- **Vehicle audio connection** — When a vehicle audio source connects (CarPlay, wired USB head unit), the app switches to Driving Mode and starts the Drive Recorder automatically. For **Bluetooth** head units, a one-time trust step is required — the first time your van's Bluetooth stereo is detected, you will need to identify and trust it in settings so the app can distinguish it from headphones or Bluetooth speakers. Once trusted, it triggers automatically on every subsequent connection. **Note:** Both triggers only fire automatically if the van is currently in Camped Mode. If you are in Sentry, Sleep, or Stealth mode, the audio connection will not override your mode — this prevents a charge cable or brief Bluetooth reconnect from unexpectedly switching modes while you're away from or sleeping in the van.
 
 **Safety Interlock:** Driving Mode is the only mode with a safety check. Before activating it, the app scans all contact sensors and door accessories. If any are open or unlocked, it shows an alert listing them by name. You must either close them or tap **Ignore & Drive** to proceed. This prevents driving away with a roof vent, awning arm, or sliding door left open.
 

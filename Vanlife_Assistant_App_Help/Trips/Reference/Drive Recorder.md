@@ -1,54 +1,146 @@
 ---
-title: "Drive Recorder"
+title: "The Drive Recorder"
 aliases:
   - "drive recorder"
-  - "record a drive"
-  - "gps recording"
-  - "track my drive"
-  - "route recording"
   - "live drive"
-category: "Trips"
+  - "record drive"
+  - "route recording"
+  - "gps tracking"
+  - "start drive"
+  - "end drive"
+  - "pre-flight checklist"
+  - "pre flight"
+  - "elevation profile"
+  - "live map"
+  - "tracking mode"
+  - "balanced tracking"
+  - "high accuracy"
+  - "breadcrumb"
+category: "Van"
 type: "Reference"
-tags: [help, vanlife-assistant, trips, reference, trip, check-in, timeline, drive, gpx, route, elevation, schengen, border, map, recorder, location, gps, background]
-last_updated: "2026-02-21"
+tags: [help, vanlife-assistant, van, drive, recorder, gps, tracking, route, live-map, reference]
+last_updated: "2026-02-23"
 ---
 
-# ⏺️ The Drive Recorder
+# 🛣️ The Drive Recorder
 
 ## Overview
-The **Drive Recorder** is the silent engine behind your travel maps. When armed, it runs quietly in the background, logging your exact route, distance, and elevation changes. 
 
-Because vanlife often means driving through remote areas with terrible cell service or dealing with phones overheating on the dashboard, the Drive Recorder is built with aggressive offline-first, battery-saving, and crash-recovery technology.
+The Drive Recorder captures your route as you drive — building a live GPS track with elevation data, distance, and altitude gain. Every drive is saved to [[Drive_History|Drive History]] where you can replay it, view it on a map, and see it contribute to your lifetime stats. It's how the app knows where you've been, how far you've driven, and what the terrain looked like along the way.
 
-## How It Works: Tracking Preferences
-You can customize how the Drive Recorder balances map accuracy against battery life in your app Settings. 
+---
 
-* **Balanced (Recommended):** The smartest option. When the app is open on your screen, it uses high-accuracy GPS. When you lock your phone or switch to Spotify, it drops into a highly efficient "Breadcrumb" mode, connecting the dots of your journey using cell towers and significant location changes to save battery.
-* **High Accuracy:** For the data nerds. This forces continuous, turn-by-turn GPS tracking even when the app is in the background. It provides the most beautiful map lines but *will* consume more battery.
-* **Breadcrumb Only:** The survival mode. Uses minimal power, plotting straight lines between major location changes. Perfect for multi-day crossings where charging isn't an option.
+## Opening the Drive Recorder
 
-## 🏔️ The Elevation Engine (EMA)
-GPS altitude data from a phone is notoriously messy. If you drive on a perfectly flat highway, raw GPS data might tell you that you climbed 300 meters because the signal kept bouncing.
+Tap **Drive Recorder** on the Van tab tools grid (the pink steering wheel card). The Live Drive View opens as a full-screen sheet. It can also be opened from the Trips tab.
 
-To fix this, Vanlife Assistant uses an **Exponential Moving Average (EMA) algorithm**. 
-1. **Accuracy Gates:** It completely ignores altitude readings if your phone reports poor vertical accuracy (worse than 30 meters).
-2. **Curve Smoothing:** When it gets a good reading, it assigns an 85% weight to your *previous* altitude, and only 15% to the new reading. This effectively irons out all the jagged spikes and drops, leaving you with a beautifully smooth elevation chart.
-3. **Ascent Hysteresis:** The app will only add to your "Total Ascent" if you climb more than 0.5 meters at a time, preventing tiny signal jitters from artificially inflating your mountain-climbing stats!
+---
 
-## 📦 The Black Box Recovery System
-What happens if you are tracking a drive, and your phone battery dies? Or your phone crashes? 
+## The Pre-Flight Checklist
 
-In most apps, you lose the drive. Vanlife Assistant uses a **Black Box System**. 
-Every 15 seconds (or every 5 new GPS points), the app silently writes your current route to a secure `current_expedition.json` file buried in your device's storage. 
+Before a drive, you'll be prompted with the **Pre-Flight Checklist** — a quick rundown of things to check before moving the van. This runs automatically when you open the Drive Recorder.
 
-If the app is forcefully closed, the very next time you open Vanlife Assistant, it will detect the Black Box file, recover every single point of your drive, and seamlessly resume recording right where you left off. 
+### Smart Checks
 
-## Troubleshooting
+The checklist includes contextual "smart" checks that appear based on your setup:
 
-### "My route has a massive straight line cutting through a mountain."
-The Drive Recorder has a strict "Quality Policy" to prevent bad data. If you drive through a long tunnel and lose GPS, and then reconnect on the other side, the app will connect those two points with a straight line. The engine is also programmed to reject "Teleports" (if the GPS accidentally bounces you 50km away for a split second) to keep your map clean.
+- **Handbrake off** — Always shown
+- **Doors secured** — Always shown
+- **Lights on** — Shown if it's after 8pm or before 6am
+- **Pets secured** — Shown if you have any pet crew members in [[The_Crew|The Crew]]
+- **Roof vents closed** — Shown if you have a Smart Van accessory configured as a roof vent
+
+Tick each check as you go. The checklist won't block you from starting — it's a reminder, not a gate. Tap **All Clear — Let's Go** once all checks are ticked (or **Skip** to proceed without completing them).
+
+### Custom Checks
+
+You can add your own pre-flight items — anything specific to your van or routine. In the Pre-Flight Checklist sheet, tap **Edit** in the toolbar, then **+** to add a custom check. Give it a name and an icon. Custom checks persist across drives and appear every time you open the checklist.
+
+Edit or reorder custom checks by entering Edit mode. Swipe left on any custom item to delete it.
+
+The last completed pre-flight date is saved to your van profile and shown in the Van editor.
+
+---
+
+## The Live Drive Screen
+
+Once you dismiss the pre-flight checklist, the Live Drive Recorder screen shows:
+
+### Recording Controls
+
+The large button in the top-right toggles recording:
+
+**Start Drive** — Arms the recorder. The button turns red showing "End Drive". The status changes to "Armed" → "Recording" as the first GPS fix comes in.
+
+**End Drive** — Stops recording and saves the drive log. A summary of the drive is saved to Drive History.
+
+### Status Indicators
+
+- **Recording** (red dot) — GPS data is actively being captured, either at high accuracy or in breadcrumb mode
+- **Armed** (orange) — Recording intent is active but GPS has not yet acquired a first fix (typically a brief moment after tapping Start Drive)
+- **Standby** (grey) — Not recording
+
+### Live Stats
+
+Three stat cells update in real time:
+- **ALT** — Current altitude in metres
+- **DIST** — Distance driven so far in km
+- **CLIMB** — Total ascent accumulated in metres
+
+### Live Map
+
+A map shows your route in real time with your current position. Choose between **Standard**, **Satellite**, and **Hybrid** map styles using the picker above the map. The map centres on your position as you move.
+
+Route segments are colour-coded by GPS tracking quality:
+- **Green** — High accuracy GPS fix
+- **Orange** — Breadcrumb or lower-accuracy segment
+- **Red** — Very low accuracy or signal interruption
+
+### Elevation Profile
+
+Below the map, a chart shows your elevation profile for the current drive — altitude on the Y axis, distance on the X axis. The chart fills in as you drive. Segments are colour-coded to match the map (green = high accuracy, orange = breadcrumb).
+
+---
+
+## Tracking Modes
+
+The recorder automatically adapts its GPS precision based on your movement and battery considerations. Three modes exist:
+
+**High Accuracy** — Full GPS precision, more battery use. Used when actively driving.
+
+**Breadcrumb** — Periodic location updates, lower battery use. Used during extended stationary periods (parked for a meal stop, etc.).
+
+**Stopped** — Recorder is idle.
+
+### Tracking Preference Setting
+
+In the Live Drive screen, you can set a tracking preference that influences how the recorder balances quality vs battery:
+
+**Balanced** (recommended) — Switches intelligently between high accuracy and breadcrumb.
+
+**High Accuracy** — Always uses maximum precision. Best track quality, highest battery use. Good for challenging terrain where the route matters.
+
+**Breadcrumb Only** — Uses periodic low-frequency updates throughout. Very battery-efficient for long drives where you just want to capture the general route.
+
+The preference is saved and applied to all future drives.
+
+---
+
+## Keeping Screen On
+
+The Drive Recorder requests that the screen stays on while recording. This prevents the phone from sleeping and interrupting the GPS session during a drive. You can override this in iOS Settings → Display & Brightness if needed.
+
+---
+
+## Saving a Drive
+
+Tap **End Drive**. The app stops recording, processes the track, and saves it as a DriveLog to [[Drive_History|Drive History]]. Elevation data is fetched for the route automatically.
+
+If you close the app during a recording, the drive continues in the background using iOS background location updates. It saves when you return to the app and tap End Drive.
+
+---
 
 ## Related Articles
-* [[Elevation Charts|Elevation Charts]]
-* [[Checkins and Timeline|Checkins and Timeline]]
-* [[Permissions Explained]]
+- [[Drive_History|Drive History]]
+- [[Van_Profile_and_Setup|Setting Up Your Van Profile]]
+- [[The_Crew|The Crew]]

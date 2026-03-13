@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "files": [
     {"path": "Advanced/Index.md", "sha256": "3a4c4465f183e0efdac28079035f26cb2fc7c1d5ff04276d5c3ac48c9cfad198"},
     {"path": "Advanced/Reference/Background_Behaviour.md", "sha256": "e1bc395dbc5727761b862a81b99c3ac682211640a2e1d710d85a04599d69302e"},
@@ -73,7 +73,7 @@
     {"path": "Trips/Reference/Check-in Detail View.md", "sha256": "6cc290ebffc41a139c6db2f47f2e99a0a36c9d8a51ddb61153a8e22788dc624a"},
     {"path": "Trips/Reference/Check-in Services and Journaling.md", "sha256": "ad4b2f333b1b23aeb2fb079ff96291730ff223938e58c4b45565b71234b035a7"},
     {"path": "Trips/Reference/Checkins and Timeline.md", "sha256": "1eb27949530d548086abcf1fa0e861af3cd1227a75035426ea3b6171de07c69a"},
-    {"path": "Trips/Reference/Drive Recorder.md", "sha256": "816cdb6432d3cea58c16ebbab7d168334b25868b250fb28546cb4825e3f2b415"},
+    {"path": "Trips/Reference/Drive Recorder.md", "sha256": "d41fee23b5efdb76ef5b1dee149cbaafe8743c382f092c6d1ce623314709f08b"},
     {"path": "Trips/Reference/Elevation Charts.md", "sha256": "0bea69005d8a5b4804ecd78cfdcd1178fa23f7f7947b95e7d0e0df0542453871"},
     {"path": "Trips/Reference/GPX Import.md", "sha256": "f3121be2e18ac28178f321d3e2206d128b3c36790bd8e5aef9f60089dc81d46e"},
     {"path": "Trips/Reference/Postcard Generator.md", "sha256": "3fb618c7aa258b3d6b68fef3886c58971fb701604ab942530c969ef97127fcae"},
@@ -119,7 +119,7 @@
     {"path": "Van/SmartVan/Reference/SmartVan_Setup.md", "sha256": "adff423a4bb95e4e2913f7f164d57cf0ed5ade8385880f33f03b7d77938f8622"},
     {"path": "Van/SmartVan/Reference/Spot_Mode.md", "sha256": "d862d50cebddedbd4c0d889fceb3fd554300c41e9356fa5fc3f91c494308a850"},
     {"path": "Van/SmartVan/Reference/Van_Brain.md", "sha256": "69b084fdcd62221341d28a780c3fded0410f8b853d2e28821f197b1000dd2106"},
-    {"path": "Van/SmartVan/Reference/Van_Modes.md", "sha256": "028ec6aeec87ccfc1bb9bed9bc66e462e5fc053d1a005ddf6af2d7dc55c0afee"},
+    {"path": "Van/SmartVan/Reference/Van_Modes.md", "sha256": "ffeffbeaca5d8c6e1a9f98c49bf566a313ac1447ca9ab296b7a325aa3a21e22b"},
     {"path": "Van/SmartVan/SmartVan_Index.md", "sha256": "bd44f07a4fd9e43d32de981a7e06230c831d4f3cfb68628c57adc5fb954f5861"},
     {"path": "Van/The Van/Reference/Compliance_and_Legal_Dates.md", "sha256": "a6ca740cfbd363302a2b3a6d9398718156578799054496ad9d4c63fd35d82735"},
     {"path": "Van/The Van/Reference/Drive_History.md", "sha256": "c48487d942beb2e8d36bd84197f63717bd5a4de28bf30b7118d6656342406d1d"},
@@ -141,7 +141,7 @@
     {"path": "Voice Assistant/Reference/Voice_Finance.md", "sha256": "bd390d54e8ef287cf2c5dfa82594826b479755112aa3e09da1703c38e363cdea"},
     {"path": "Voice Assistant/Reference/Voice_Inventory.md", "sha256": "6bea8299910f9b49ff3b36e06e84ba94d0ad63dcceb9517988708bb65d5b60cc"},
     {"path": "Voice Assistant/Reference/Voice_Overview.md", "sha256": "0755050aa5284fd22bdbc58e32f58b89f2c9fbf6abb93683afd698807614d76f"},
-    {"path": "Voice Assistant/Reference/Voice_SmartVan.md", "sha256": "517aa0c0cfbf04971d913910da51a62a6f2c7fab5dea5403e8e7dcec6cc11569"},
+    {"path": "Voice Assistant/Reference/Voice_SmartVan.md", "sha256": "3fef7cdfeb17314b80b271baf1a059d53b30f2e1758c0348303b6d015a89bc7d"},
     {"path": "Voice Assistant/Reference/Voice_Travel.md", "sha256": "2625d268fd65085356b6120ae49d4d794d8b9fe8f65b5b6716317bef2c004d3b"},
     {"path": "Voice Assistant/Reference/Voice_VanSpecs.md", "sha256": "5117e6309ee1824e1b0b5705ca4b7a7c92d1457f610b814c8736fff9fa68f340"},
     {"path": "Voice Assistant/Reference/Voice_Whiteboard.md", "sha256": "36566986bbbd197c666b9f6a4fefd78d4bfbc44409af03ef597d17003a711edb"},
