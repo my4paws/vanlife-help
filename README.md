@@ -103,3 +103,5 @@ vanlife-help/
 | This folder `~/Desktop/vanlife-help/` | Publishing mirror — pushed to GitHub |
 | GitHub `my4paws/vanlife-help` | The source the app downloads from |
 | jsDelivr CDN | Serves files to users' devices |
+
+
