@@ -1,3 +1,8 @@
+---
+sidebar:
+  hidden: true
+---
+
 # Vanlife Assistant — Help Content Updates
 
 This folder is the publishing hub for all in-app help content.
