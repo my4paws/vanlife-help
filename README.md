@@ -3,7 +3,7 @@ sidebar:
   hidden: true
 ---
 
-# Vanlife Assistant — Help Content Updates
+# Vanlife Assistant — Help Content Updates!
 
 This folder is the publishing hub for all in-app help content.
 Changes pushed here go live to users **without an App Store update**.
