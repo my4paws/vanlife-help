@@ -1,6 +1,5 @@
 ---
-sidebar:
-  hidden: true
+draft: true
 ---
 
 # Vanlife Assistant — Help Content Updates!
