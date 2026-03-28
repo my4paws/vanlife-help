@@ -68,4 +68,4 @@ Everything you need to master your finances on the road.
 
 ## 🛠️ Troubleshooting
 
-- [[Why isn't my Scenario updating?]]
+- [[Why isn't my Scenario updating]]

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "files": [
     {"path": "Advanced/Index.md", "sha256": "3a4c4465f183e0efdac28079035f26cb2fc7c1d5ff04276d5c3ac48c9cfad198"},
     {"path": "Advanced/Reference/Background_Behaviour.md", "sha256": "e1bc395dbc5727761b862a81b99c3ac682211640a2e1d710d85a04599d69302e"},
@@ -32,7 +32,7 @@
     {"path": "Money/Deep Dive/Currency and Sync.md", "sha256": "40fd18fd9e8eefad3011126a6ffd5388e7421cc7976f03e73669e10a48f5e045"},
     {"path": "Money/Deep Dive/The Math Behind Scenario Trajectories.md", "sha256": "206b385ab6397bb7c26a3cff4653d3df10711766dc3989473e81b81c258f16a5"},
     {"path": "Money/Deep Dive/Understanding Financial Scenarios.md", "sha256": "fc5f009b8c030d55e4fa9abc42e22fc3cef5b31801e5673bb3c0845947bb7a72"},
-    {"path": "Money/Index.md", "sha256": "90d5f7812fb7c115cac6580780ed124b6850e450c8da13071a6fcc1c16d1aee0"},
+    {"path": "Money/Index.md", "sha256": "e7218314ed840fa8f02c341c5fd650923dc1e6111ea80eef70eb71b042a84754"},
     {"path": "Money/Reference/Adding Transactions.md", "sha256": "dbaf718fdd7995df2c09aa00c180656f5ca6337ba3ebc80f7dfe087b38ab6946"},
     {"path": "Money/Reference/Budgets and Remaining Budget.md", "sha256": "a548e62b14b666100183678692c91a15e62cfad7b28974d5da12b8830c757330"},
     {"path": "Money/Reference/Category - Group Management.md", "sha256": "32586f37921186130992852d626e3531f1287efdfcf81450147959ced6a6de50"},
@@ -47,7 +47,7 @@
     {"path": "Money/Reference/The Money Dashboard - Your Financial GPS.md", "sha256": "fa1d3daeb4ef3b75750d5dbbb05f9d59cbc6401e5ae12d1ad0437780e998cfd8"},
     {"path": "Money/Reference/Vendors vs. Categories - Organising Your Ledger.md", "sha256": "6a169eef266b7c88998fbee91bfcccf563f0862a1e486940b3177b33e7f0b3a7"},
     {"path": "Money/Reference/Voice Finance Commands.md", "sha256": "16510b8481f2bcdae11f6f6ae3d51d3a7d343fc9d1ec303b0f7a2e866c25e6b0"},
-    {"path": "Money/Troubleshooting/Why isn't my Scenario updating?.md", "sha256": "b46eb24b2d55a22edc208fc73a8890d641cea3560920819ad234517fc03ff8ea"},
+    {"path": "Money/Troubleshooting/Why isn't my Scenario updating.md", "sha256": "b46eb24b2d55a22edc208fc73a8890d641cea3560920819ad234517fc03ff8ea"},
     {"path": "Money/Tutorials/How to build your first What-If Scenario.md", "sha256": "f1fad3743677f6cac8617f59d99c22254e1f2fcdeda792e72999ec53c6e75071"},
     {"path": "Settings/Index.md", "sha256": "17c1bf52e0d2e43bc3177d8dbca29df6a3b6c9e97ea52f5dd1b3d3f74527c756"},
     {"path": "Settings/Reference/Configuring the Core Engines.md", "sha256": "563feeda61075431f1c6da24ef41a8622b8d5142917141515137eb4984d0e25b"},
@@ -94,7 +94,7 @@
     {"path": "Trips/Weather/Reference/The_Solar_and_Weather_Card.md", "sha256": "03eea9f20db8e7f21c56da162350f7ac2e469d45275d1660f1730078cad9de7f"},
     {"path": "Trips/Weather/Tutorials/Viewing weather forecasts for your upcoming Route-Spots.md", "sha256": "8b54ccfbef64c273669dfb09c4a45f8ba2e473ce0a47afcc178de8f25a68c6a3"},
     {"path": "Trips/Weather/Tutorials/Viewing_Weather_Forecasts_for_Your_Route_and_Spots.md", "sha256": "76d670a7f0d15ba6cb1e56a10cef88be429306dc1825b4f0394dcc45c704ed15"},
-    {"path": "Van/Glovebox/Deep Dive/What is Border Mode and how do I use it?.md", "sha256": "ea7ac51c64e33a4a1613e3192e87d892e63625de28e9f557171abf3c7f068532"},
+    {"path": "Van/Glovebox/Deep Dive/What is Border Mode and how do I use it.md", "sha256": "ea7ac51c64e33a4a1613e3192e87d892e63625de28e9f557171abf3c7f068532"},
     {"path": "Van/Glovebox/Glovebox Index.md", "sha256": "a2cad22e5c0bfbfdf6988cd12d55388f455630a0da8037f70d0c4a05a2219ddb"},
     {"path": "Van/Glovebox/Tutorials/How to securely store vehicle and travel documents.md", "sha256": "e0cc2e0f0a4d290aa93ae14634d87c886dcb62187f548247f007e846f6a4428a"},
     {"path": "Van/Glovebox/Tutorials/Using the Document Scanner.md", "sha256": "52c59d07ccd6bf7cf7f73f3b6d3c4b91d240b67eae3a391d15b2ee326ecd0b24"},

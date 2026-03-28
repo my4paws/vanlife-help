@@ -21,7 +21,7 @@ Choose an article below to learn how to master your documents:
 * **[[Using the Document Scanner]]** - *Learn how to turn physical paper into crisp, multi-page PDFs directly inside the app.*
 
 ### Advanced Features
-* **[[What is Border Mode and how do I use it]]** - *Discover how to safely hand your phone to a customs officer or mechanic without exposing your private data.*
+* **[[What is Border Mode and how do I use it?]]** - *Discover how to safely hand your phone to a customs officer or mechanic without exposing your private data.*
 
 ### Related Features
 * [[Emergency Mode: What it is and how to use it]]
